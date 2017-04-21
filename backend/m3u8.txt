@@ -1,0 +1,994 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name=Welcome to cCloudTV.ORG (Updated 04-27-2016 09:54:54 EST-US) the future of IPTV. tvg-language=English tvg-country=US tvg-id=cCloud tvg-logo=http://s30.postimg.org/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg group-title=Announcement,Welcome to cCloudTV.ORG (Updated 04-27-2016 09:54:54 EST-US) the future of IPTV. (Announcement) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+#EXTINF:0 tvg-name=*IMPORTANT PLEASE WATCH THIS VIDEO* tvg-language=English tvg-country=US tvg-id=*IMPORTANT PLEASE WATCH THIS VIDEO* tvg-logo=http://www.ocdandfamilies.com/wp-content/uploads/2013/12/shutterstock_can_you_help4.jpg group-title=Top10,*IMPORTANT PLEASE WATCH THIS VIDEO* (Top10) (US) (English)
+http://youtu.be/hvxPg4TE0tc
+#EXTINF:0 tvg-name=A&E; cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=A&E; cCloudTV.ORG tvg-logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg group-title=Top10,A&E; cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/0MBeEob__chT7RFEBF_5Fg/1461776039/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=AMC cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=AMC cCloudTV.ORG tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png group-title=Top10,AMC cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/bG2G9NrUi9LUIXvzWzU_xg/1461775825/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Cartoon Network cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=Cartoon Network cCloudTV.ORG tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png group-title=Top10,Cartoon Network cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/Jr47WN7YX8hcpfrZ3SZpoA/1461776043/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Comedy Central cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=Comedy Central cCloudTV.ORG tvg-logo=http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif group-title=Top10,Comedy Central cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/VQzyBSXdiKgDRh_njX4Afw/1461775829/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Discovery Channel cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=Discovery Channel cCloudTV.ORG tvg-logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg group-title=Top10,Discovery Channel cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/dC1XwTg26937tq-d1FwbAg/1461776047/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=ESPN cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=ESPN cCloudTV.ORG tvg-logo=http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg group-title=Top10,ESPN cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/1XEmaSzdWseaoIazb6oTUw/1461775833/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=History cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=History cCloudTV.ORG tvg-logo=http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png group-title=Top10,History cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/sGhHrAYZwaMPoti0ef5O3g/1461775840/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=National Geographic Channel cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=National Geographic Channel cCloudTV.ORG tvg-logo=http://www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg group-title=Top10,National Geographic Channel cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/RR2u0ySWBtsZ15fYvv9avg/1461775843/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Nickelodeon cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=Nickelodeon cCloudTV.ORG tvg-logo=http://www.nick.com/nick-assets/common/nick-logo-200x200.png group-title=Top10,Nickelodeon cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/CBnc0Bp-6tTUXoUTf0pQ8Q/1461776062/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=The CW Network cCloudTV.ORG tvg-language=English tvg-country=US tvg-id=The CW Network cCloudTV.ORG tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA group-title=Top10,The CW Network cCloudTV.ORG (Top10) (US) (English)
+http://167.114.102.27/live/TO-cjglUtBoYa4Zo2qGbng/1461776064/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=24 News tvg-language=French tvg-country=FR tvg-id=24 News tvg-logo=http://i.imgur.com/VvA12Zz.jpg group-title=News,24 News (News) (FR) (French)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:0 tvg-name=24h RTVE tvg-language=Spanish tvg-country=ES tvg-id=24h RTVE tvg-logo=https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I group-title=News,24h RTVE (News) (ES) (Spanish)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name=360 TV tvg-language=Turkish tvg-country=TR tvg-id=360 TV tvg-logo=http://www.tv360.com.tr/img/360-logo-footer.png group-title=News,360 TV (News) (TR) (Turkish)
+http://46.20.7.97:80/360tv/live/HasBahCa.m3u8
+#EXTINF:0 tvg-name=A2Z News tvg-language=Hindi tvg-country=IN tvg-id=A2Z News tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScUK2y3eCwFp5BahLainI7TM0_LCjBUis6fe_a2n7LNz66UFnLWzTTj2k group-title=News,A2Z News (News) (IN) (Hindi)
+http://live.wmncdn.net/a2znewstv/17d3b9abae87b387b16a8221229c5b34.sdp/hasbahca.m3u8
+#EXTINF:0 tvg-name=ABC News tvg-language=English tvg-country=US tvg-id=ABC News Web tvg-logo=http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg group-title=News,ABC News (News) (US) (English)
+http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
+#EXTINF:0 tvg-name=ABC News tvg-language=English tvg-country=AU tvg-id=ABC News tvg-logo=http://australiaresorts.us/photo/abc-news-australia.jpg group-title=News,ABC News (News) (AU) (English)
+http://www.abc.net.au/res/streaming/video/hls/news24.m3u8
+#EXTINF:0 tvg-name=ABC tvg-language=English tvg-country=US tvg-id=ABC tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/American_Broadcasting_Company_2013_Logo.png/150px-American_Broadcasting_Company_2013_Logo.png group-title=News,ABC (News) (US) (English)
+http://167.114.102.27/live/zLosJ-Hhybj4d6_HWaWcTQ/1461775794/900150983cd24fb0d6963f7d28e17f72.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=ABN tvg-language=Telugu tvg-country=IN tvg-id=ABN tvg-logo=http://www.andhrawishesh.com/Resources/images/TV-Channels/ABN-Andhrajyothi.jpg group-title=News,ABN (News) (IN) (Telugu)
+https://www.youtube.com/watch?v=QzQnFY6CioA.m3u8
+#EXTINF:0 tvg-name=ABP Asmita tvg-language=Gujarati tvg-country=IN tvg-id=ABP Asmita tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g group-title=News,ABP Asmita (News) (IN) (Gujarati)
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/index_250_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:0 tvg-name=ANN tvg-language=Arabic tvg-country=UK tvg-id=ANN tvg-logo=http://vignette1.wikia.nocookie.net/masseffect/images/c/c0/Alliance_News_Network_Icon.png/revision/latest?cb=20120306204228 group-title=News,ANN (News) (UK) (Arabic)
+http://38.99.146.36:7777/ANN_HD.m3u8
+#EXTINF:0 tvg-name=AO Vivo tvg-language=Portuguese tvg-country=BR tvg-id=AO Vivo tvg-logo=https://pbs.twimg.com/profile_images/2722537135/b531823696eb9e864710dd49102b7704_400x400.png group-title=News,AO Vivo (News) (BR) (Portuguese)
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
+#EXTINF:0 tvg-name=ARD tvg-language=German tvg-country=DE tvg-id=ARD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqSQWsbpqlHuHd82OGEKpFccUJOxXiLadPoecDM4H_Z-aV4pfFY-Et-VE group-title=News,ARD (News) (DE) (German)
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0 tvg-name=ARY News tvg-language=Urdu tvg-country=PK tvg-id=ARY News tvg-logo=http://daikhotv.com/wp-content/uploads/2015/08/ARY-Live-Streaming.jpg group-title=News,ARY News (News) (PK) (Urdu)
+http://93.115.85.17:1935/ARYNEWS_2/myStream_240p/chunklist_w880235420.m3u8
+#EXTINF:0 tvg-name=Aaj Tak Delhi tvg-language=Hindi tvg-country=IN tvg-id=Aaj Tak Delhi tvg-logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/aaj_tak_delhi.png group-title=News,Aaj Tak Delhi (News) (IN) (Hindi)
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdDellhiAajTak85au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:0 tvg-name=Aaj Tak tvg-language=Hindi tvg-country=IN tvg-id=Aaj Tak tvg-logo=https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png group-title=News,Aaj Tak (News) (IN) (Hindi)
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdAajtaakNews87au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:0 tvg-name=Al Arabiya News tvg-language=Arabic tvg-country=AR tvg-id=Al Arabiya News tvg-logo=https://allmedialink.com/wp-content/uploads/2014/05/al-arabiya-news-logo.gif group-title=News,Al Arabiya News (News) (AR) (Arabic)
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8?v=2913751298
+#EXTINF:0 tvg-name=Al Baghdadia 2 tvg-language=Arabic tvg-country=IQ tvg-id=Al Baghdadia 2 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/al_baghdadia.jpg group-title=News,Al Baghdadia 2 (News) (IQ) (Arabic)
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:0 tvg-name=Al Baghdadia tvg-language=Arabic tvg-country=IQ tvg-id=Al Baghdadia tvg-logo=http://www.lyngsat-logo.com/logo/tv/aa/al_baghdadia_iq.png group-title=News,Al Baghdadia (News) (IQ) (Arabic)
+http://38.99.146.36:7777/AlBaghdadia_HD.m3u8
+#EXTINF:0 tvg-name=Al Ekhbariya Souria tvg-language=Syrian tvg-country=SY tvg-id=Al Ekhbariya Souria tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQHvtLOK5_MUOLtZynCXK8WQYTmEjlnOFSeY1kdggHZtZ0rAqolaVSeQ group-title=News,Al Ekhbariya Souria (News) (SY) (Syrian)
+http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
+#EXTINF:0 tvg-name=Al Fayhaa tvg-language=Arabic tvg-country=IQ tvg-id=Al Fayhaa tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/al_fayhaa.jpg group-title=News,Al Fayhaa (News) (IQ) (Arabic)
+http://alturl.com/3jddm
+#EXTINF:0 tvg-name=Al Forat tvg-language=Arabic tvg-country=IQ tvg-id=Al Forat tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/8f/AlForat_logo.png group-title=News,Al Forat (News) (IQ) (Arabic)
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:0 tvg-name=Al Hiwar tvg-language=Arabic tvg-country=UK tvg-id=Al Hiwar tvg-logo=http://www.cermam.org/fr/images/al20hiwar.gif group-title=News,Al Hiwar (News) (UK) (Arabic)
+http://38.99.146.36:7777/AlHiwar_HD.m3u8
+#EXTINF:0 tvg-name=Al Jazeera tvg-language=English tvg-country=QA tvg-id=Al Jazeera tvg-logo=http://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo-150x150.jpg group-title=News,Al Jazeera (News) (QA) (English)
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0 tvg-name=Al Mustakillah tvg-language=Arabic tvg-country=UK tvg-id=Al Mustakillah tvg-logo=http://1.bp.blogspot.com/-KDrD1hpwtBY/UGnDSU_URvI/AAAAAAAACPs/Gioa33a1YB4/s72-c/Al-Mustakillah-free-tv-online-logo.jpg group-title=News,Al Mustakillah (News) (UK) (Arabic)
+http://38.99.146.36:7777/AlMustakila_HD.m3u8
+#EXTINF:0 tvg-name=Al Nabaa tvg-language=Arabic tvg-country=LY tvg-id=Al Nabaa tvg-logo=https://pbs.twimg.com/media/B64wHw2CYAAD2BS.jpg group-title=News,Al Nabaa (News) (LY) (Arabic)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
+#EXTINF:0 tvg-name=Al Ordoni tvg-language=Arabic tvg-country=JO tvg-id=Al Ordoni tvg-logo=http://www.altkiasat.com/wp-content/themes/goodnews5/framework/timthumb/timthumb.php?src=http://www.altkiasat.com/wp-content/uploads/2015/07/D8A7D984D8A3D8B1D8AFD986D98AD8A9-180x120.jpg&h;=120&w;=180 group-title=News,Al Ordoni (News) (JO) (Arabic)
+http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist.m3u8?wowzasessionid=2048482502
+#EXTINF:0 tvg-name=Al Quds tvg-language=Arabic tvg-country=UK tvg-id=Al Quds tvg-logo=http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG group-title=News,Al Quds (News) (UK) (Arabic)
+http://38.99.146.36:7777/Alquds_HD.m3u8
+#EXTINF:0 tvg-name=Al Sharqiya tvg-language=Arabic tvg-country=IQ tvg-id=Al Sharqiya tvg-logo=http://www.alsharqiyatv.com/images/png-3.png group-title=News,Al Sharqiya (News) (IQ) (Arabic)
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0 tvg-name=Al Yawm tvg-language=Arabic tvg-country=LB tvg-id=Al Yawm tvg-logo=http://thewatchtv.com/wp-content/uploads/2013/07/Watch-Palestine-Al-Yawm-Live-TV-from-Palestine.jpg group-title=News,Al Yawm (News) (LB) (Arabic)
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:0 tvg-name=Andalucia TV tvg-language=Spanish tvg-country=ES tvg-id=Andalucia TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ group-title=News,Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name=Assam Talks tvg-language=Assamese tvg-country=IN tvg-id=Assam Talks tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo8_SeFGapOisvxufzZaXRgt6tXxq5ERSe9TruZQOxojgxYWoQGd-0Q group-title=News,Assam Talks (News) (IN) (Assamese)
+http://live.wmncdn.net/assamtalks/399b197575b20db545635938ab53b1ed.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Assemble Nationale tvg-language=French tvg-country=CA tvg-id=Assemble Nationale tvg-logo=http://i.imgur.com/gn9PJHk.png group-title=News,Assemble Nationale (News) (CA) (French)
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Astro Awani tvg-language=Malayalam tvg-country=MY tvg-id=Astro Awani tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-j7C0DErUVHjgSY2cmOKTYfAEFr4gVhIiNZPPnV-ZlD-nl_VqkqbKIKc group-title=News,Astro Awani (News) (MY) (Malayalam)
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+#EXTINF:0 tvg-name=Azteca Noticias tvg-language=Spanish tvg-country=MX tvg-id=Azteca Noticias tvg-logo=http://static.tvazteca.com/aztecanoticias/images/an_logo_horizontal.png group-title=News,Azteca Noticias (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0 tvg-name=BBC Arabia tvg-language=Arabic tvg-country=SA tvg-id=BBC Arabia tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_bbc_arabic.PNG/200px-Logo_bbc_arabic.PNG group-title=News,BBC Arabia (News) (SA) (Arabic)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0 tvg-name=BBC Persian tvg-language=Farsi tvg-country=UK tvg-id=BBC Persian tvg-logo=http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg group-title=News,BBC Persian (News) (UK) (Farsi)
+http://63.237.48.23/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+#EXTINF:0 tvg-name=BBC World News tvg-language=Arabic tvg-country=UK tvg-id=BBC World News tvg-logo=https://yt3.ggpht.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAAAAAA/b-RZ1gDQAIc/s100-c-k-no/photo.jpg group-title=News,BBC World News (News) (UK) (Arabic)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0 tvg-name=BFM BUSINESS tvg-language=French tvg-country=FR tvg-id=BFM BUSINESS tvg-logo=http://i.imgur.com/5MUDLap.jpg group-title=News,BFM BUSINESS (News) (FR) (French)
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/index.m3u8?videoId=1920204345001&lineUpId;=&pubId;=876450612001&playerId;=1158356419001&affiliateId;=&v;=3.4.0&fp;=MAC20192C02C02C245&r;=MDRUQ&g;=EIQBMDHKJXNY
+#EXTINF:0 tvg-name=BFMTV tvg-language=French tvg-country=FR tvg-id=BFMTV tvg-logo=http://i.imgur.com/lKd9xlc.jpg group-title=News,BFMTV (News) (FR) (French)
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8?videoId=1835105181001&lineUpId;=&pubId;=876450610001&playerId;=1154506756001&affiliateId;=&v;=3.4.0&fp;=MAC20192C02C02C245&r;=QHBHE&g;=PGDBGHLQTHEA
+#EXTINF:0 tvg-name=BLOOMBERG TVID Indonesia tvg-language=Indonesian tvg-country=ID tvg-id=BLOOMBERG TVID Indonesia tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1HeY37PzSFmqL8VC6bNPTx9VpokUTfvQnegGiR9J7n0YBLDvfzkNp: group-title=News,BLOOMBERG TVID Indonesia (News) (ID) (Indonesian)
+http://edge.nim.mivo.tv/kqcsmbqna6yg/bloomberg-id_all/playlist.m3u8
+#EXTINF:0 tvg-name=BNT 1 tvg-language=English tvg-country=BG tvg-id=BNT 1 tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp-qpntvWqXus0nEN/TYBO5TLvUUsBXgIvCNN0aT6fPk_mFyZlgf7SQc group-title=News,BNT 1 (News) (BG) (English)
+rtmp://193.43.26.198:1935/live/bnt1
+#EXTINF:0 tvg-name=BRT HD tvg-language=Turkish tvg-country=TR tvg-id=BRT HD tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6wq-39X62pgSLhKTD0riL-IOYLsTqZJb7jyVDD6so905IQqeUAFhPUQ group-title=News,BRT HD (News) (TR) (Turkish)
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:0 tvg-name=BTV News tvg-language=Kannada tvg-country=IN tvg-id=BTV News tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2ZJ5q-gXBvfEACPzVtkAZ9H-M179toHwkSkawypbAjtLAnIT9jR5UHQ group-title=News,BTV News (News) (IN) (Kannada)
+rtmp://203.201.63.166/live/livestream
+#EXTINF:0 tvg-name=BYN TV Kenh Hai Ngoai tvg-language=Vietnamese tvg-country=VN tvg-id=BYN TV Kenh Hai Ngoai tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkOZe7GZz1VVYAEGpKe5UdFt2KspBVXDaP0nFw1KEA5xW5DVlFWMfpq0s group-title=News,BYN TV Kenh Hai Ngoai (News) (VN) (Vietnamese)
+http://origin.onworldtv.com:1935/liveorigin/byn/playlist.m3u8
+#EXTINF:0 tvg-name=Beladi TV tvg-language=Arabic tvg-country=IQ tvg-id=Beladi TV tvg-logo=http://www.frosat.net/images/logotv/original/Al-Beladi-TV.jpg group-title=News,Beladi TV (News) (IQ) (Arabic)
+http://38.99.146.36:7777/Beladi_HD.m3u8
+#EXTINF:0 tvg-name=Berita Satu HD Indonesia tvg-language=Indonesian tvg-country=ID tvg-id=Berita Satu HD Indonesia tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDeWxrB2TDup70saMbm3IpdLmXqcGa7RQErwVVsRZtG3JPDcNqOJZ7V20 group-title=News,Berita Satu HD Indonesia (News) (ID) (Indonesian)
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+#EXTINF:0 tvg-name=Bernama TV tvg-language=Indonesian tvg-country=MY tvg-id=Bernama TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJvPKB8CS3GMF7tSDMN0EUD-sQ_43kxKlfDzOxofiarMlWUmHA8_iL4w group-title=News,Bernama TV (News) (MY) (Indonesian)
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+#EXTINF:0 tvg-name=Bhaarat Today tvg-language=Telugu tvg-country=IN tvg-id=Bhaarat Today tvg-logo=https://yt3.ggpht.com/-d-x8nBA5oVc/AAAAAAAAAAI/AAAAAAAAAAA/DXpbvCBFiM0/s100-c-k-no-rj-c0xffffff/photo.jpg group-title=News,Bhaarat Today (News) (IN) (Telugu)
+http://live.wmncdn.net/bharat2015today/85ed3607bbdef21d49dedb9b844aad95.sdp/chunklist_w1994787095.m3u8
+#EXTINF:0 tvg-name=Bloomberg tvg-language=Turkish tvg-country=TR tvg-id=Bloomberg tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-MXgObYBkCjgTH1Y5X8L1H4tZJQwD7DeuBIoqiHBhHg_kDDE7Vb81B0 group-title=News,Bloomberg (News) (TR) (Turkish)
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+#EXTINF:0 tvg-name=Bloomberg tvg-language=English tvg-country=UK tvg-id=Bloomberg tvg-logo=http://artvest.com/wp-content/uploads/2013/10/Bloomberg-Logo.png group-title=News,Bloomberg (News) (UK) (English)
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
+#EXTINF:0 tvg-name=Bloomberg tvg-language=English tvg-country=US tvg-id=Bloomberg tvg-logo=http://www.novacable.com/images/logo_Bloomberg_TV.gif group-title=News,Bloomberg (News) (US) (English)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0 tvg-name=Bulgaria On Air tvg-language=Bulgarian tvg-country=BG tvg-id=Bulgaria On Air tvg-logo=http://www.predavatel.com/bg/tv/bulgariaonair.png group-title=News,Bulgaria On Air (News) (BG) (Bulgarian)
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0 tvg-name=C-Span 2 tvg-language=English tvg-country=US tvg-id=C-Span 2 tvg-logo=https://www.getsatellite.com/channels/cspan2.png group-title=News,C-Span 2 (News) (US) (English)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:0 tvg-name=C-Span 3 tvg-language=English tvg-country=US tvg-id=C-Span 3 tvg-logo=https://fiber.storage.googleapis.com/channels/logos/cspan3.png group-title=News,C-Span 3 (News) (US) (English)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:0 tvg-name=C-Span tvg-language=English tvg-country=US tvg-id=C-Span tvg-logo=http://firstladies.c-span.org/Images/WebSkin/FL_WebHeader_cspanLogo.png group-title=News,C-Span (News) (US) (English)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:0 tvg-name=C5N News tvg-language=Spanish tvg-country=AR tvg-id=C5N News tvg-logo=http://tvtvtv.ru/icons/logo_988.png group-title=News,C5N News (News) (AR) (Spanish)
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:0 tvg-name=C7 Jalisco tvg-language=Spanish tvg-country=MX tvg-id=C7 Jalisco tvg-logo=http://i.imgur.com/wqWrVq7.png group-title=News,C7 Jalisco (News) (MX) (Spanish)
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:0 tvg-name=CBC Presents tvg-language=English tvg-country=BB tvg-id=CBC Presents tvg-logo=http://shaw.ca/uploadedImages/Television/Channel_Listings/Full_Channel_Listings/LOGO_140x_cbsHD.png group-title=News,CBC Presents (News) (BB) (English)
+http://nlds7.cdnak.neulion.com/nlds/cbc/cbc_sd/as/live/cbc_sd_iphone.m3u8
+#EXTINF:0 tvg-name=CBSN tvg-language=English tvg-country=US tvg-id=CBSN tvg-logo=https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg group-title=News,CBSN (News) (US) (English)
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu;=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:0 tvg-name=CCTV Arabia tvg-language=Arabic tvg-country=CN tvg-id=CCTV Arabia tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CCTV-A.png/200px-CCTV-A.png group-title=News,CCTV Arabia (News) (CN) (Arabic)
+http://38.99.146.36:7777/CCTVArabia_HD.m3u8
+#EXTINF:0 tvg-name=CCTV tvg-language=English tvg-country=US tvg-id=CCTV tvg-logo=http://cdn.cctv-america.com/wp-content/themes/cctv-america/img/cctv-logo-new-print.png group-title=News,CCTV (News) (US) (English)
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+#EXTINF:0 tvg-name=CDN CANAL 37 tvg-language=Spanish tvg-country=ES tvg-id=CDN CANAL 37 tvg-logo=http://www.eltecsa.com/logos/logo_cdn.png group-title=News,CDN CANAL 37 (News) (ES) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name=CEM Tv tvg-language=Turkish tvg-country=TR tvg-id=CEM Tv tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqzOQy8bJS5MOcy5-IRrGHCo8STO6ekOf9StAri74uAZ8YrMTJm6MeOHw group-title=News,CEM Tv (News) (TR) (Turkish)
+rtmp://stream.pivol.com/live/cemtv
+#EXTINF:0 tvg-name=CNBC Awaaz tvg-language=Hindi tvg-country=IN tvg-id=CNBC Awaaz tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8rCHeo4H4ap36iXD46hzgF_qwzrPdkgU2HANF6KiDgUw6VS0rRk5apEE group-title=News,CNBC Awaaz (News) (IN) (Hindi)
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+#EXTINF:0 tvg-name=CNN Intl tvg-language=English tvg-country=UK tvg-id=CNN Intl tvg-logo=http://rips.in/images/cnnint.gif group-title=News,CNN Intl (News) (UK) (English)
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1504603228.m3u8
+#EXTINF:0 tvg-name=CNN Spanish tvg-language=Spanish tvg-country=US tvg-id=CNN Spanish tvg-logo=http://diveheart.org/wp-content/uploads/2015/08/cnn-espanol-logo1-320x240.jpg group-title=News,CNN Spanish (News) (US) (Spanish)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF:0 tvg-name=CNN Turk tvg-language=Turkish tvg-country=TR tvg-id=CNN Turk tvg-logo=http://canlitvyayinakisi.com/wp-content/themes/point/kanal/CNN.jpg group-title=News,CNN Turk (News) (TR) (Turkish)
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 tvg-name=CNN tvg-language=Arabic tvg-country=EG tvg-id=CNN tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=News,CNN (News) (EG) (Arabic)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:0 tvg-name=CNN tvg-language=English tvg-country=US tvg-id=CNN tvg-logo=http://www.astoundbroadband.com/img/logos/CNN-HD-Logo.gif group-title=News,CNN (News) (US) (English)
+http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 10 Chiapas tvg-language=Spanish tvg-country=MX tvg-id=Canal 10 Chiapas tvg-logo=http://i.imgur.com/nsS4NdH.png group-title=News,Canal 10 Chiapas (News) (MX) (Spanish)
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:0 tvg-name=Canal 26 Noticias HD tvg-language=Spanish tvg-country=AR tvg-id=Canal 26 Noticias HD tvg-logo=http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg group-title=News,Canal 26 Noticias HD (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-480/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 26 Noticias tvg-language=Spanish tvg-country=AR tvg-id=Canal 26 Noticias tvg-logo=http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg group-title=News,Canal 26 Noticias (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 5 Linares tvg-language=Spanish tvg-country=CL tvg-id=Canal 5 Linares tvg-logo=http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png group-title=News,Canal 5 Linares (News) (CL) (Spanish)
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0 tvg-name=Canal 5 Sabinas tvg-language=Spanish tvg-country=MX tvg-id=Canal 5 Sabinas tvg-logo=http://i.imgur.com/GpiDAmw.png group-title=News,Canal 5 Sabinas (News) (MX) (Spanish)
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0 tvg-name=Canal 5 el Lider tvg-language=Spanish tvg-country=HN tvg-id=Canal 5 el Lider tvg-logo=http://onlinetvreviews.org/wp-content/uploads/2014/03/channelimage-26081.jpg group-title=News,Canal 5 el Lider (News) (HN) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0 tvg-name=Canal America tvg-language=Spanish tvg-country=US tvg-id=Canal America tvg-logo=http://puu.sh/nREpp/ebbd0fa995.jpg group-title=News,Canal America (News) (US) (Spanish)
+http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
+#EXTINF:0 tvg-name=Canal Extremadura tvg-language=Spanish tvg-country=ES tvg-id=Canal Extremadura tvg-logo=http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg group-title=News,Canal Extremadura (News) (ES) (Spanish)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0 tvg-name=Canal Savoir tvg-language=French tvg-country=CA tvg-id=Canal Savoir tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOPogGEmpB9lqB-LUkUzrQqk2ZMmUSxRgz2hs8KjbF5DxaWhxYbgjtiEo group-title=News,Canal Savoir (News) (CA) (French)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0 tvg-name=Canal del Congreso tvg-language=Spanish tvg-country=MX tvg-id=Canal del Congreso tvg-logo=http://i.imgur.com/uGSJtw4.png group-title=News,Canal del Congreso (News) (MX) (Spanish)
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:0 tvg-name=Canale 7 tvg-language=Italian tvg-country=IT tvg-id=Canale 7 tvg-logo=http://www.canale7.tv/img/canale7.jpg group-title=News,Canale 7 (News) (IT) (Italian)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:0 tvg-name=Channel News Asia tvg-language=English tvg-country=SG tvg-id=Channel News Asia tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwDa4PT9Uzs6Riduw_wd6m2ugYKzei0nopTdqo3b1MTlU4-b6AxcsvQ group-title=News,Channel News Asia (News) (SG) (English)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD214_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=City Montreal tvg-language=French tvg-country=CA tvg-id=City Montreal tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS97wJ1qDeWMXuH6NMjINWozlWNCCFA41e5BVixrs315D6qZhcgAvRwqA group-title=News,City Montreal (News) (CA) (French)
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:0 tvg-name=DD News tvg-language=Hindi tvg-country=IN tvg-id=DD News tvg-logo=http://3.bp.blogspot.com/-kvVwy1UlaGA/TyFj-fxy-6I/AAAAAAAAAVE/ZM0Fe7M56KI/s1600/dd_news.jpg group-title=News,DD News (News) (IN) (Hindi)
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+#EXTINF:0 tvg-name=DD Punjabi News tvg-language=Punjabi tvg-country=IN tvg-id=DD Punjabi News tvg-logo=http://t2.gstatic.com/images?q=tbn:ANd9GcQEjELC-yvjRiVojIAoGUfEGt6tBzFpZeJbv2pbxvtSrscf-Etz7pOwpnFg group-title=News,DD Punjabi News (News) (IN) (Punjabi)
+http://164.100.129.92:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
+#EXTINF:0 tvg-name=DW tvg-language=Spanish tvg-country=ES tvg-id=DW tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png group-title=News,DW (News) (ES) (Spanish)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0 tvg-name=DY365 tvg-language=Assamese/Hindi tvg-country=IN tvg-id=DY365 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bh74_jb-T9Zm9r71EypKl2usNb6IAmjsBeA71rjWpoEZClj6xxg7FYg7 group-title=News,DY365 (News) (IN) (Assamese/Hindi)
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-name=Digi 24 tvg-language=English tvg-country=RO tvg-id=Digi 24 tvg-logo=http://www.freeetv.com/images/03_logo/digi_24_romania.jpg group-title=News,Digi 24 (News) (RO) (English)
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 tvg-name=Dunya News tvg-language=Urdu tvg-country=PK tvg-id=Dunya News tvg-logo=http://www.islambox.com/Images/Products/Channels/mainlogo/urdunews-logo.png group-title=News,Dunya News (News) (PK) (Urdu)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
+#EXTINF:0 tvg-name=ECO TV tvg-language=Spanish tvg-country=PA tvg-id=ECO TV tvg-logo=https://i.imgur.com/46l971T.jpg group-title=News,ECO TV (News) (PA) (Spanish)
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+#EXTINF:0 tvg-name=ET Now tvg-language=Hindi/English tvg-country=IN tvg-id=ET Now tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhQwqCzbc734jELAAe93WlihSzZ3GprY90zgfcntbZBzfoegdqfsNt_tc group-title=News,ET Now (News) (IN) (Hindi/English)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD97_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=ETV Bihar tvg-language=Bhojpuri/Hindi tvg-country=IN tvg-id=ETV Bihar tvg-logo=http://images.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/ETV_Bihar.png group-title=News,ETV Bihar (News) (IN) (Bhojpuri/Hindi)
+http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-b.m3u8
+#EXTINF:0 tvg-name=ETV Madhya Pradesh tvg-language=Hindi tvg-country=IN tvg-id=ETV Madhya Pradesh tvg-logo=http://images.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/ETV_Madhypradesh.png group-title=News,ETV Madhya Pradesh (News) (IN) (Hindi)
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8
+#EXTINF:0 tvg-name=ETV Rajasthan tvg-language=Hindi tvg-country=IN tvg-id=ETV Rajasthan tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLU9dfQYa0i1dF2L2trpc10tKL8k_IAD092GQwOWV_ZvKrLjMyNsOIRA group-title=News,ETV Rajasthan (News) (IN) (Hindi)
+http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
+#EXTINF:0 tvg-name=ETV Uttar Pradesh tvg-language=Hindi tvg-country=IN tvg-id=ETV Uttar Pradesh tvg-logo=http://images.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/ETV_utterpardesh.png group-title=News,ETV Uttar Pradesh (News) (IN) (Hindi)
+http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+#EXTINF:0 tvg-name=EURONEWS FR tvg-language=French tvg-country=FR tvg-id=EURONEWS FR tvg-logo=http://i.imgur.com/5i4OCs9.jpg group-title=News,EURONEWS FR (News) (FR) (French)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.
+#EXTINF:0 tvg-name=EconAmico TV tvg-language=Portuguese tvg-country=PT tvg-id=EconAmico TV tvg-logo=http://www.companhiadeideias.com/wp-content/uploads/2014/06/economicotvLogo.jpg group-title=News,EconAmico TV (News) (PT) (Portuguese)
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:0 tvg-name=Efekto TV tvg-language=Spanish tvg-country=MX tvg-id=Efekto TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTarHq19HUxp67LhWWCBHSY4Iek3n0t1wM0SF9CddaI4CrIFYE-YwOm8g group-title=News,Efekto TV (News) (MX) (Spanish)
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0 tvg-name=Ekattor tvg-language=Bengali tvg-country=BD tvg-id=Ekattor tvg-logo=http://latesttopnewsnow.com/wp-content/uploads/2015/11/Ekattor-TV-Logo.jpg group-title=News,Ekattor (News) (BD) (Bengali)
+http://118.179.35.11/hls/EkattorHDV5U46/04.m3u8
+#EXTINF:0 tvg-name=El Financiero Bloomberg TV tvg-language=Spanish/English tvg-country=MX tvg-id=El Financiero Bloomberg TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkB0bMhqc651FGTTkGQoDbR99kpP3ekfPWMcSqZFJ3--y0Si2kAhXU9A group-title=News,El Financiero Bloomberg TV (News) (MX) (Spanish/English)
+http://50.23.204.76:1935/efbtv/myStream/chunklist_w1866549606.m3u8
+#EXTINF:0 tvg-name=Euro News tvg-language=Portuguese tvg-country=PT tvg-id=Euro News tvg-logo=http://i.imgur.com/Fna8l8q.jpg group-title=News,Euro News (News) (PT) (Portuguese)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:0 tvg-name=Euronews tvg-language=German tvg-country=DE tvg-id=Euronews tvg-logo=http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif group-title=News,Euronews (News) (DE) (German)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:0 tvg-name=Euronews tvg-language=Spanish tvg-country=ES tvg-id=Euronews tvg-logo=http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg group-title=News,Euronews (News) (ES) (Spanish)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:0 tvg-name=Euronews tvg-language=French tvg-country=FR tvg-id=Euronews tvg-logo=http://i.imgur.com/AwsiToL.jpg group-title=News,Euronews (News) (FR) (French)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
+#EXTINF:0 tvg-name=Euronews tvg-language=Portuguese tvg-country=PT tvg-id=Euronews tvg-logo=http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg group-title=News,Euronews (News) (PT) (Portuguese)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:0 tvg-name=Euronews tvg-language=English tvg-country=UK tvg-id=Euronews tvg-logo=http://bell-vs-rogers.com/channellogos/cid382euronews.jpg group-title=News,Euronews (News) (UK) (English)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+#EXTINF:0 tvg-name=Euroneww Italia tvg-language=Italian tvg-country=IT tvg-id=Euroneww Italia tvg-logo=http://i.imgur.com/xKJtwfk.png group-title=News,Euroneww Italia (News) (IT) (Italian)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:0 tvg-name=FRANCE I24 NEWS tvg-language=French tvg-country=FR tvg-id=FRANCE I24 NEWS tvg-logo=http://i.imgur.com/DV93tLJ.png group-title=News,FRANCE I24 NEWS (News) (FR) (French)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:0 tvg-name=Fox Business tvg-language=English tvg-country=US tvg-id=Fox Business tvg-logo=http://siriusbuzz.com/wp-content/uploads/2008/12/fox-business-logo.gif group-title=News,Fox Business (News) (US) (English)
+http://thefxplayer.com/live-tv/fox-business
+#EXTINF:0 tvg-name=Fox News tvg-language=English tvg-country=US tvg-id=Fox News tvg-logo=http://cdn.newsbusters.org/images/fnclogolarge.jpg group-title=News,Fox News (News) (US) (English)
+http://167.114.102.27/live/85XwOmRc7k1-5vFBelzVmA/1461775579/b199b33264504f9191862ce605f6754a.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=France 24 tvg-language=English tvg-country=FR tvg-id=France 24 tvg-logo=http://www.ecfr.eu/page/-/France_24.png?v=1440585546204 group-title=News,France 24 (News) (FR) (English)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8
+#EXTINF:0 tvg-name=FusionPlus TV tvg-language=Afrikaans tvg-country=NG/CO tvg-id=FusionPlus TV tvg-logo=http://www.fusionplustv.com/wp-content/uploads/2015/07/logo-fptv.png group-title=News,FusionPlus TV (News) (NG/CO) (Afrikaans)
+http://play.inacdn.com/playlist_live/43_135_live.m3u8
+#EXTINF:0 tvg-name=Geo News tvg-language=Urdu tvg-country=PK tvg-id=Geo News tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Geo_TV_Logo.svg/200px-Geo_TV_Logo.svg.png group-title=News,Geo News (News) (PK) (Urdu)
+http://stream.jeem.tv/geo/geonewsofficial_sub/chunks.m3u8
+#EXTINF:0 tvg-name=Global BC tvg-language=English tvg-country=CA tvg-id=Global BC tvg-logo=http://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png group-title=News,Global BC (News) (CA) (English)
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea;=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:0 tvg-name=Global Halifax tvg-language=English tvg-country=CA tvg-id=Global Halifax tvg-logo=http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/halifax.png group-title=News,Global Halifax (News) (CA) (English)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea;=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+#EXTINF:0 tvg-name=Global tv tvg-language=English tvg-country=CA tvg-id=Global tv tvg-logo=http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png group-title=News,Global tv (News) (CA) (English)
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea;=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+#EXTINF:0 tvg-name=Globo TV tvg-language=Spanish tvg-country=HN tvg-id=Globo TV tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435 group-title=News,Globo TV (News) (HN) (Spanish)
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:0 tvg-name=Globovision tvg-language=Spanish tvg-country=VE tvg-id=Globovision tvg-logo=http://cdn.globovision.com/wp-content/uploads/2014/05/LogoHead2.png group-title=News,Globovision (News) (VE) (Spanish)
+http://edge.wms28.lorini.net/globovisiontv/globovisiontv/hasbahca.m3u8
+#EXTINF:0 tvg-name=Good News 2 tvg-language=Mandarin tvg-country=CH tvg-id=Good News 2 tvg-logo=http://www.goodnewsnetwork.org/wp-content/themes/Newspaper-child/images/logoGNN-300x100-v2.png group-title=News,Good News 2 (News) (CH) (Mandarin)
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:0 tvg-name=Gulistan News tvg-language=Hindi/Punjabi tvg-country=IN tvg-id=Gulistan News tvg-logo=http://www.gulistannews.com/cdn/imgs/gulistan-news-logo.jpg group-title=News,Gulistan News (News) (IN) (Hindi/Punjabi)
+rtmp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+#EXTINF:0 tvg-name=HCH Honduras tvg-language=Spanish tvg-country=HN tvg-id=HCH Honduras tvg-logo=http://thewatchtv.com/wp-content/uploads/2013/03/Watch-HCH-Hable-Como-Hable-Live-TV-from-Honduras.jpg group-title=News,HCH Honduras (News) (HN) (Spanish)
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:0 tvg-name=HCTV Somali tvg-language=Somali tvg-country=SO tvg-id=HCTV Somali tvg-logo=http://www.togdheernews.com/v2/wp-content/uploads/2014/10/HCTV.jpg group-title=News,HCTV Somali (News) (SO) (Somali)
+http://162.212.176.83:8080/hctvgermany.m3u8
+#EXTINF:0 tvg-name=Haber Turk tvg-language=Turkish tvg-country=TR tvg-id=Haber Turk tvg-logo=http://habercininyeri.files.wordpress.com/2011/08/haberturk-logo.jpg group-title=News,Haber Turk (News) (TR) (Turkish)
+http://bit.do/haberturk
+#EXTINF:0 tvg-name=IBN 7 tvg-language=Hindi tvg-country=IN tvg-id=IBN 7 tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZNbu79uk8caBD93vNFTz-TGsdHFaafWboMYPW64EcMz51hJB7ta3bKy4 group-title=News,IBN 7 (News) (IN) (Hindi)
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0 tvg-name=IBN Lokmat tvg-language=Marathi/Hindi tvg-country=IN tvg-id=IBN Lokmat tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvN_dEm213mo7LWa2GZ2vHthhi_htjg9L2rXtqzBU44FdRGkFzAPj0wd8 group-title=News,IBN Lokmat (News) (IN) (Marathi/Hindi)
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0 tvg-name=In Goa 24x7 tvg-language=Konkani/Hindi tvg-country=IN tvg-id=In Goa 24x7 tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQceItKEm43znHqVCwN95luAt4EpkPfXmmRN_N4fRmq_yAQFh30c0f0DKQ group-title=News,In Goa 24x7 (News) (IN) (Konkani/Hindi)
+rtmp://stream.mslive.in:1961/live/gub152
+#EXTINF:0 tvg-name=Independant tvg-language=Bengali tvg-country=BD tvg-id=Independant tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png group-title=News,Independant (News) (BD) (Bengali)
+http://118.179.35.11/hls/ITV2434BuA/05.m3u8
+#EXTINF:0 tvg-name=India News Haryana tvg-language=Hindi tvg-country=IN tvg-id=India News Haryana tvg-logo=http://static.nexg.tv/unified/admin/upload/400_1424439233India_news_Haryana.jpg group-title=News,India News Haryana (News) (IN) (Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD150_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=India News Uttar Pradesh tvg-language=Hindi tvg-country=IN tvg-id=India News Uttar Pradesh tvg-logo=http://www.tvguideindia.com/wp-content/uploads/2015/10/India-tv-UP.png group-title=News,India News Uttar Pradesh (News) (IN) (Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD144_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=India News tvg-language=Hindi tvg-country=IN tvg-id=India News tvg-logo=http://mediakhabar.in/wp-content/uploads/2013/07/star-news-old-logo.jpg group-title=News,India News (News) (IN) (Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8#.m3u8
+#EXTINF:0 tvg-name=India TV tvg-language=Hindi tvg-country=IN tvg-id=India TV tvg-logo=http://images.indiatvnews.com/businessindia/India_TV_awards2634.jpg group-title=News,India TV (News) (IN) (Hindi)
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0 tvg-name=Irinn tvg-language=Arabic tvg-country=IR tvg-id=Irinn tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/IRINN_logo.svg/97px-IRINN_logo.svg.png group-title=News,Irinn (News) (IR) (Arabic)
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:0 tvg-name=Jai Maharashtra News tvg-language=Marathi tvg-country=IN tvg-id=Jai Maharashtra News tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThIxT5PHCoHbaoKTNELu_ClhV5HQDpXpzpOOGtpiNgCJWomGkxIHXY9g group-title=News,Jai Maharashtra News (News) (IN) (Marathi)
+rtmp://edge-ind.inapcdn.in:1935/vivo/semacb.stream_aac
+#EXTINF:0 tvg-name=Jamuna TV tvg-language=Bengali tvg-country=BD tvg-id=Jamuna TV tvg-logo=http://www.jagobd.com/wp-content/uploads/2013/11/jamunatv6.jpg group-title=News,Jamuna TV (News) (BD) (Bengali)
+http://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
+#EXTINF:0 tvg-name=Janta Tv tvg-language=Hindi tvg-country=IN tvg-id=Janta Tv tvg-logo=http://t0.gstatic.com/images?q=tbn:ANd9GcRtyfME8RF8sz4V7ouPaeNsToFoD0JyI8y53187pqVscKgqWGCiVMvvNQ group-title=News,Janta Tv (News) (IN) (Hindi)
+http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Jaya Plus tvg-language=Tamil tvg-country=IN tvg-id=Jaya Plus tvg-logo=http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg group-title=News,Jaya Plus (News) (IN) (Tamil)
+rtmp://78.46.17.7/live/myStream.sdp
+#EXTINF:0 tvg-name=Jaya TV tvg-language=Tamil tvg-country=UK tvg-id=Jaya TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMVY62nU1afzvheW8cFYOVHcvRVk3e5Kb_FJ0c1zlE3WHofqsWXR8mEg group-title=News,Jaya TV (News) (UK) (Tamil)
+http://hlsengextra-lh.akamaihd.net/i/hls26_jayatvuk5@4914/index_1000.m3u8
+#EXTINF:0 tvg-name=KBS World tvg-language=Korean tvg-country=MY tvg-id=KBS World tvg-logo=https://rayvblog.files.wordpress.com/2011/10/kbs_world2.png group-title=News,KBS World (News) (MY) (Korean)
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:0 tvg-name=KTVU 2 tvg-language=English tvg-country=US tvg-id=KTVU 2 tvg-logo=http://www.habitot.org/hab/newsletter/logos/ktvu_logo.jpg group-title=News,KTVU 2 (News) (US) (English)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:0 tvg-name=KURDSAT NEWS TV tvg-language=Kurdish tvg-country=IQ tvg-id=KURDSAT NEWS TV tvg-logo=http://garmyani.com/tvradios/images/kurdsatnews.jpg group-title=News,KURDSAT NEWS TV (News) (IQ) (Kurdish)
+http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
+#EXTINF:0 tvg-name=Kalaignar Seithigal TV tvg-language=Tamil tvg-country=IN tvg-id=Kalaignar Seithigal TV tvg-logo=http://talkiesnow.com/wp-content/uploads/2015/05/seithigal.jpg group-title=News,Kalaignar Seithigal TV (News) (IN) (Tamil)
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+#EXTINF:0 tvg-name=Kurdistan TV tvg-language=Kurdish tvg-country=IQ tvg-id=Kurdistan TV tvg-logo=http://karwan.tv/images/tvlogo/kurd-tv.png group-title=News,Kurdistan TV (News) (IQ) (Kurdish)
+http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
+#EXTINF:0 tvg-name=LDPR tvg-language=Russian tvg-country=RU tvg-id=LDPR tvg-logo=http://tv-tv.in/wp-content/uploads/2015/01/ldpr-live-streaming.gif group-title=News,LDPR (News) (RU) (Russian)
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0 tvg-name=Lancelot TV tvg-language=Spanish tvg-country=ES tvg-id=Lancelot TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc group-title=News,Lancelot TV (News) (ES) (Spanish)
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0 tvg-name=Libya TV tvg-language=Arabic tvg-country=LY tvg-id=Libya TV tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/libya_al_ahrar_tv.jpg group-title=News,Libya TV (News) (LY) (Arabic)
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_2C2642C5282C8282C.m3u8
+#EXTINF:0 tvg-name=Life News tvg-language=Russian tvg-country=RU tvg-id=Life News tvg-logo=http://anytimecar.ru/images/news/lifenews.png group-title=News,Life News (News) (RU) (Russian)
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:0 tvg-name=Live India tvg-language=Hindi tvg-country=IN tvg-id=Live India tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUYEdZW7YlHtW6gP7KDUTyZGgMaVGd9QBP48Ab5-PMFgkLpbctBYHtQ group-title=News,Live India (News) (IN) (Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD215_W_150.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Lok Sabha TV tvg-language=Hindi/English tvg-country=IN tvg-id=Lok Sabha TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOIz0AJzAuw3h4DRCVwE-1BMlDa3KCV5bNEPY3RcAnnIqTHt3rh0h22Ck group-title=News,Lok Sabha TV (News) (IN) (Hindi/English)
+http://164.100.49.23:8080/hls-live/livepkgr/_definst_/lok.m3u8
+#EXTINF:0 tvg-name=London Live tvg-language=English tvg-country=UK tvg-id=London Live tvg-logo=https://www.goodsamapp.org/assets/img/media/new-london-live-logoo.jpg group-title=News,London Live (News) (UK) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0 tvg-name=Lotus News tvg-language=Tamil tvg-country=IN tvg-id=Lotus News tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLCJVcvegyvFFBVAtFDguXhvjm6Na0tZjt4Y808Q1nTskQPE2D_JE3bQ group-title=News,Lotus News (News) (IN) (Tamil)
+rtmp://118.102.228.195/live/stream
+#EXTINF:0 tvg-name=MBC TV India tvg-language=Oriya tvg-country=IN tvg-id=MBC TV India tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3XCOgbyGEizkkp7J-_eWdMLaHrWKyPUOSz_SHjVZlO8jScYYCanRonQ group-title=News,MBC TV India (News) (IN) (Oriya)
+http://live.wmncdn.net/mbctv/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=METRO TV tvg-language=Indonesian tvg-country=ID tvg-id=METRO TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm3ulqEFqVEvHfTTRZS9mYP82tbxpMVP-r5Qzg20iEZGKr80nDTv2d1Ug group-title=News,METRO TV (News) (ID) (Indonesian)
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_all/playlist.m3u8
+#EXTINF:0 tvg-name=MH1 News tvg-language=Hindi tvg-country=IN tvg-id=MH1 News tvg-logo=http://www.customercarephonenumber.in/wp-content/uploads/2013/02/MH-One-News-Logo.jpg group-title=News,MH1 News (News) (IN) (Hindi)
+rtmp://edge-ind.inapcdn.in:1935/berry/sfmacb3.stream_aac
+#EXTINF:0 tvg-name=Maan News tvg-language=Arabic tvg-country=PS tvg-id=Maan News tvg-logo=http://civiccoalition-jerusalem.org/system/files/images/maan_logo_med_q_0.jpg group-title=News,Maan News (News) (PS) (Arabic)
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+#EXTINF:0 tvg-name=Mas Noticias tvg-language=Spanish tvg-country=MX tvg-id=Mas Noticias tvg-logo=http://www.rtv.org.mx/tvmas/wp-content/uploads/sites/2/2013/03/mas-noticias-1.png group-title=News,Mas Noticias (News) (MX) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name=Maya Tv tvg-language=Spanish tvg-country=HN tvg-id=Maya Tv tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/maya_tv.jpg group-title=News,Maya Tv (News) (HN) (Spanish)
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:0 tvg-name=MertoVision tvg-language=French tvg-country=CA tvg-id=MertoVision tvg-logo=http://i.imgur.com/q0JEMOG.png group-title=News,MertoVision (News) (CA) (French)
+rtmp://cp228779.live.edgefcs.net:1935/live/metrovision_live@138690
+#EXTINF:0 tvg-name=Michoacan al Dia tvg-language=Spanish tvg-country=MX tvg-id=Michoacan al Dia tvg-logo=http://i.imgur.com/g9hUhNv.jpg group-title=News,Michoacan al Dia (News) (MX) (Spanish)
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:0 tvg-name=Music Dance tvg-language=Vietnamese tvg-country=VN tvg-id=Music Dance tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwxMSg2pRTOdS27EFMjmpEX2wpPB_gC6WCdaRyJz_vaIUeDGiz7P8qSJM group-title=News,Music Dance (News) (VN) (Vietnamese)
+http://95.141.24.61/playlist.m3u8
+#EXTINF:0 tvg-name=NDTV 24/7 tvg-language=English tvg-country=IN tvg-id=NDTV 24/7 tvg-logo=http://www.statemaster.com/wikimir/images/upload.wikimedia.org/wikipedia/en/e/e2/NDTV24x7.jpg group-title=News,NDTV 24/7 (News) (IN) (English)
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:0 tvg-name=NDTV India tvg-language=Hindi tvg-country=IN tvg-id=NDTV India tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1000px-NDTV_logo.svg.png group-title=News,NDTV India (News) (IN) (Hindi)
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:0 tvg-name=NEWS7 tvg-language=Bulgarian tvg-country=BG tvg-id=NEWS7 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/1b/NEWS7.png group-title=News,NEWS7 (News) (BG) (Bulgarian)
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8
+#EXTINF:0 tvg-name=NRT 2 tvg-language=Kurdish tvg-country=IQ tvg-id=NRT 2 tvg-logo=http://files.hevitv.webnode.com/system_preview_detail_200000012-ac9ccad93b/nrt2.jpg group-title=News,NRT 2 (News) (IQ) (Kurdish)
+http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/playlist.m3u8
+#EXTINF:0 tvg-name=NRT HD tvg-language=Kurdish tvg-country=IQ tvg-id=NRT HD tvg-logo=https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c20.0.100.100/p100x100/10988492_706543286133301_1064764163848882081_n.jpg?oh=0c63fc37838ae95565a9e7381040848e&oe;=56C16AB9&__gda__=1455814847_39a33411d3947f030f035c144490d8e2 group-title=News,NRT HD (News) (IQ) (Kurdish)
+http://nrttv.iptv-playoutcenter.de:1935/nrt1/nrt1.stream_1/playlist.m3u8
+#EXTINF:0 tvg-name=Namma Kudla TV tvg-language=Kannada tvg-country=IN tvg-id=Namma Kudla TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhSvCbNDrx5CqHgurvY6YUsQNyrq_VDfZ6aMyE-WPa6xDuJLxMZelZlM group-title=News,Namma Kudla TV (News) (IN) (Kannada)
+http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Nasa TV tvg-language=English tvg-country=US tvg-id=Nasa TV tvg-logo=http://t2.gstatic.com/images?q=tbn:ANd9GcQiZX_IWkWKbncEptBtHmWBAkKNmB7w1FoS4Asu9NOWLCq2GE-68jQYbg group-title=News,Nasa TV (News) (US) (English)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0 tvg-name=National Geographic Peoples tvg-language=English tvg-country=MY tvg-id=National Geographic Peoples tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYLn76zcr3gFmGxma7gSW_sEDsg2zm7DNwLP_ryYWE0KanOfhA4YTI59c group-title=News,National Geographic Peoples (News) (MY) (English)
+rtmp://195.154.188.161/live/ngchd playpath=ngchd swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/national-geographic|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=News 12 (Brooklyn) tvg-language=English tvg-country=US tvg-id=News 12 (Brooklyn) tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUqTCoj255I9m0X5lMGYMPR34_YatKrDX2tILQT3032DbCo0hRbmU9qI group-title=News,News 12 (Brooklyn) (News) (US) (English)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:0 tvg-name=News 12 (Connecticut) tvg-language=English tvg-country=US tvg-id=News 12 (Connecticut) tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-eUDHQM_YmdoXpQ_EYQMvMVXS1rCT2NgE6fuLi2muoF_ZIltIQIlgRLM group-title=News,News 12 (Connecticut) (News) (US) (English)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:0 tvg-name=News 12 (Hudson Valley) tvg-language=English tvg-country=US tvg-id=News 12 (Hudson Valley) tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ19MtNC89JKqcq_sLSjGcauWC-cDSWRjtxLQTMbh5vA_czBIGOWlEWSg group-title=News,News 12 (Hudson Valley) (News) (US) (English)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:0 tvg-name=News 12 (New Jersey) tvg-language=English tvg-country=US tvg-id=News 12 (New Jersey) tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShStmM6Xg2vTHNHYWqVoXWptj9rhuCpfds6wI3sG11JNUgmvArR6tUPYc group-title=News,News 12 (New Jersey) (News) (US) (English)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:0 tvg-name=News 12 (The Bronx) tvg-language=English tvg-country=US tvg-id=News 12 (The Bronx) tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkmDiK2hs2QeOIXq1WSpHv7uPkBv7fziX1lQ7C-LtzGc9R3vI6iOJrfAE group-title=News,News 12 (The Bronx) (News) (US) (English)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:0 tvg-name=News 24 tvg-language=Hindi tvg-country=IN tvg-id=News 24 tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStMaTwJ-_5ZjlNOuFJ8T8PumB1pWCIFAvbMZPg1rWa5o9v3HGEhWhympk group-title=News,News 24 (News) (IN) (Hindi)
+http://d20vhs4gtao945.cloudfront.net/bagnetworks/ngrp:news24_all/playlist.m3u8
+#EXTINF:0 tvg-name=News 7 tvg-language=Tamil tvg-country=LK tvg-id=News 7 tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=News,News 7 (News) (LK) (Tamil)
+http://d2voe16cs5psaw.cloudfront.net/news7new/smil:news7new.smil/playlist.m3u8
+#EXTINF:0 tvg-name=News 9 tvg-language=Kannada/English tvg-country=IN tvg-id=News 9 tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhaoUSxlReeOtO5ToP2I-mdsOoj1S4z3osh4iog_1deWZZcAzlFvqmbDs group-title=News,News 9 (News) (IN) (Kannada/English)
+http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
+#EXTINF:0 tvg-name=News Live TV tvg-language=Assamese/English tvg-country=IN tvg-id=News Live TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAdUAGKa6S7_yBypczPg_IMEZFXeaWP-MNTB_zk5NB_A9VWuPE1ZzIFw group-title=News,News Live TV (News) (IN) (Assamese/English)
+http://live.wmncdn.net/newslivetv/103ae9cf9632c5cf17229f095c0042e9.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=News Nation tvg-language=Hindi tvg-country=IN tvg-id=News Nation tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOSCZHHpKqhpdy9mxQFlXh9Kv-3tPPytnDpgjDFi4CUgW5YokCtD7I-FU group-title=News,News Nation (News) (IN) (Hindi)
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+#EXTINF:0 tvg-name=News TIme tvg-language=Bengali tvg-country=IN tvg-id=News TIme tvg-logo=https://yt3.ggpht.com/-qsAT7ucLGow/AAAAAAAAAAI/AAAAAAAAAAA/v-TsXQ-1f5M/s900-c-k-no/photo.jpg group-title=News,News TIme (News) (IN) (Bengali)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD211_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=News World Odisha tvg-language=Oriya tvg-country=IN tvg-id=News World Odisha tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFbp1JhOwyDkXuhzyGZdjTw9c-hMmawAVznTgyeVUGtTV-yZNtrYIXodk group-title=News,News World Odisha (News) (IN) (Oriya)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD169_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=News X tvg-language=English tvg-country=IN tvg-id=News X tvg-logo=http://www.porterprize.in/wp-content/uploads/2014/09/NewsX-logo.jpg group-title=News,News X (News) (IN) (English)
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Newsmax TV tvg-language=English tvg-country=US tvg-id=Newsmax TV tvg-logo=https://www.rokuchannels.tv/wp-content/uploads/2013/10/newmax.jpg group-title=News,Newsmax TV (News) (US) (English)
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr2Cgo2Chfr2Cid2Cip2Cipbits2Citag2Cmaudio2Cplaylist_type2Cratebypass2Crequiressl2Csource2Cexpire/source/yt_live_broadcast/ratebypass/yes/ipbits/0/hfr/1/key/yt6/ip/209.85.238.102/fexp/94069932C94082102C94161262C94168912C94187772C94225962C94274132C94275432C94282462C94283982C94310122C94318652C94330962C94331932C94334802C94336442C94338032C94339462C94342902C94349782C94353462C9435488/signature/08E33298EDD8662219F34CD836F8059873CBD46A.4AF1:F3639438E7C9C/576B851CCFFB8706487/maudio/1/playlist_type/DVR/requiressl/yes/go/1/upn/mL2rkZM0Dl4/sver/3/expire/1461781822/gcr/us/itag/0/id/6bqvoUMVmCs.2/keepalive/yes/file/index.m3u8
+#EXTINF:0 tvg-name=Nile News tvg-language=Arabic tvg-country=EG tvg-id=Nile News tvg-logo=http://www.tv14.net/wp-content/uploads/2010/10/Nile-News.jpg group-title=News,Nile News (News) (EG) (Arabic)
+http://teledunet.tv:8888/nile_news.m3u8?idu=roivampire_79042578300
+#EXTINF:0 tvg-name=Oman tvg-language=Arabic tvg-country=OM tvg-id=Oman tvg-logo=http://epapersbuzz.com/wp-content/uploads/2014/05/Oman-News-1-160x90.jpg group-title=News,Oman (News) (OM) (Arabic)
+http://38.96.148.30:1935/live/omantv1/playlist.m3u8
+#EXTINF:0 tvg-name=Orient tvg-language=Arabic tvg-country=SY tvg-id=Orient tvg-logo=http://seeklogo.com/images/O/orient-logo-A584D4D584-seeklogo.com.gif group-title=News,Orient (News) (SY) (Arabic)
+http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+#EXTINF:0 tvg-name=P Tv News tvg-language=English tvg-country=US tvg-id=P Tv News tvg-logo=http://t1.gstatic.com/images?q=tbn:ANd9GcQYPqZKu4ZWhxXIaziHoqWAFlAxuBJABIDbgfzonyq_beYoD2nVGm-IQQ0 group-title=News,P Tv News (News) (US) (English)
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTINF:0 tvg-name=PTC tvg-language=French tvg-country=FR tvg-id=PTC tvg-logo=http://i.imgur.com/Ofl9ZlL.png group-title=News,PTC (News) (FR) (French)
+http://media.rtc.be/vod/mp4:166597.mp4/hasbahca.m3u8
+#EXTINF:0 tvg-name=Payam Tv tvg-language=Arabic tvg-country=IQ tvg-id=Payam Tv tvg-logo=http://www.payam.tv/Images/PayamLogoNew.png group-title=News,Payam Tv (News) (IQ) (Arabic)
+http://payamlive.nanocdn.com:1935/live/payam256/hasan.m3u8
+#EXTINF:0 tvg-name=Prime tvg-language=Romanian tvg-country=RO tvg-id=Prime tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEYKb1BJNDZk6gHDHlgonyP_QgkGo41dP4pFzs6fzoIvQBrsT25uwlEc group-title=News,Prime (News) (RO) (Romanian)
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+#EXTINF:0 tvg-name=Proyecto 40 tvg-language=Spanish tvg-country=MX tvg-id=Proyecto 40 tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSagmNREcSBYxer7DTFm20-KS9eAXnLmy7xQD3HK80DuZeRe11TZYdfyOI group-title=News,Proyecto 40 (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0 tvg-name=Puthiyathalaimurai TV tvg-language=Tamil tvg-country=IN tvg-id=Puthiyathalaimurai TV tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwz8pEargKQ_EHRQGF1_qQAaWufDn_U5YtwP2jcVnrtjL3y61ccgdBlQ group-title=News,Puthiyathalaimurai TV (News) (IN) (Tamil)
+http://dzamqgwxt2cln.cloudfront.net/ngmedia/ptm_400/chunklist.m3u8
+#EXTINF:0 tvg-name=RBC TV tvg-language=Russian tvg-country=RU tvg-id=RBC TV tvg-logo=http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg group-title=News,RBC TV (News) (RU) (Russian)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0 tvg-name=RCG TV Coahuila tvg-language=Spanish tvg-country=MX tvg-id=RCG TV Coahuila tvg-logo=http://i.imgur.com/ZSfFr91.jpg group-title=News,RCG TV Coahuila (News) (MX) (Spanish)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 tvg-name=REALITATEA TV tvg-language=Romanian tvg-country=RO tvg-id=REALITATEA TV tvg-logo=http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Realitatea_TV_logo_(2006-2007).png/revision/latest3Fcb3D20130927113411 group-title=News,REALITATEA TV (News) (RO) (Romanian)
+http://realitatea.m247.ro/hls/live.m3u8
+#EXTINF:0 tvg-name=RT Arabic tvg-language=Arabic tvg-country=SA tvg-id=RT Arabic tvg-logo=http://arabic.rt.com/static/img/og-logo-rt.png group-title=News,RT Arabic (News) (SA) (Arabic)
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:0 tvg-name=RT News HD tvg-language=English tvg-country=RU tvg-id=RT News HD tvg-logo=https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png group-title=News,RT News HD (News) (RU) (English)
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0 tvg-name=RT News tvg-language=English tvg-country=RU tvg-id=RT News tvg-logo=http://www.vulgo.tv/wp-content/uploads/2014/11/RT-News-Live-Tv-Watch-RT-News-Live-free-Streaming-Online-Play-Now.png group-title=News,RT News (News) (RU) (English)
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0 tvg-name=RT Noticias tvg-language=Spanish tvg-country=RU tvg-id=RT Noticias tvg-logo=https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s900-c-k-no/photo.jpg group-title=News,RT Noticias (News) (RU) (Spanish)
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:0 tvg-name=RTC tvg-language=French tvg-country=FR tvg-id=RTC tvg-logo=http://i.imgur.com/h9WbXZm.jpg group-title=News,RTC (News) (FR) (French)
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-name=RTE News Now tvg-language=English tvg-country=IE tvg-id=RTE News Now tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS40_g6DbS8raEadZUTzBIL3EgRFy6Y9lMMvG__eN_mGPnCUPEjCk5uog group-title=News,RTE News Now (News) (IE) (English)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=RTP tvg-language=Portuguese tvg-country=PT tvg-id=RTP tvg-logo=http://www.adweek.com/lostremote/files/2013/01/RTP.jpg group-title=News,RTP (News) (PT) (Portuguese)
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:0 tvg-name=RTV San Marino tvg-language=Italian tvg-country=IT tvg-id=RTV San Marino tvg-logo=http://www.smtvsanmarino.sm/skin/smtv15/img/ui/new/logo.png group-title=News,RTV San Marino (News) (IT) (Italian)
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/playlist.m3u8
+#EXTINF:0 tvg-name=Rai News tvg-language=Italian tvg-country=IT tvg-id=Rai News tvg-logo=http://www.dennisredmont.com/site/wp-content/uploads/2014/07/rainews24.jpg group-title=News,Rai News (News) (IT) (Italian)
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1917/810/live.m3u8
+#EXTINF:0 tvg-name=Raj News Kannada tvg-language=Kannada tvg-country=IN tvg-id=Raj News Kannada tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfVKd9KRZvIYcDxeVftaOtybTDeGoIXZrtDi9waBnvFq_vHoMOMCFoLA group-title=News,Raj News Kannada (News) (IN) (Kannada)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD50_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Rajya Sabha TV tvg-language=Hindi/English tvg-country=IN tvg-id=Rajya Sabha TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyVQlEpe7110h1Lzjfm7swGkvOudD-o2KdfmEARtbIYlUAiRE3pdvNyQ group-title=News,Rajya Sabha TV (News) (IN) (Hindi/English)
+http://164.100.129.91/hls-live/livepkgr/_definst_/rstv.m3u8
+#EXTINF:0 tvg-name=Reuters tvg-language=English tvg-country=US tvg-id=Reuters tvg-logo=http://www.thebaron.info/assets/logos/reuters-tv-banner.jpg group-title=News,Reuters (News) (US) (English)
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+#EXTINF:0 tvg-name=Rudaw tv tvg-language=Kurdish tvg-country=IQ tvg-id=Rudaw tv tvg-logo=http://www.skwidmedia.com/SKWID/images/rudaw.gif group-title=News,Rudaw tv (News) (IQ) (Kurdish)
+http://livestreaming.itworkscdn.net/rudawlive/rudawtv_360p/playlist.m3u8
+#EXTINF:0 tvg-name=Russia Today tvg-language=English tvg-country=RU tvg-id=Russia Today tvg-logo=http://3.bp.blogspot.com/-qkD5L21rTfE/UXBp_d7_6TI/AAAAAAAAthM/6YYta-mlkKA/s1600/Russia-Today-Logo.jpg group-title=News,Russia Today (News) (RU) (English)
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0 tvg-name=SCTVHD Phim Nuoc Ngoai tvg-language=Vietnamese tvg-country=VN tvg-id=SCTVHD Phim Nuoc Ngoai tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkXQJxRZ3OluBK8Aki-2nXrZHNjDoaCN-aYw6Ke7kqPoSpmAN2iSW2Ccw group-title=News,SCTVHD Phim Nuoc Ngoai (News) (VN) (Vietnamese)
+rtmp://112.197.2.135:1935/colive/C015_HD_2
+#EXTINF:0 tvg-name=SNTV tvg-language=Arabic tvg-country=SO tvg-id=SNTV tvg-logo=http://static.itnproductions.co.uk/itn/2013/04/SNTV-logo-240x132.jpg group-title=News,SNTV (News) (SO) (Arabic)
+http://www.axadledirect.com:1936/13/stream/playlist.m3u8
+#EXTINF:0 tvg-name=Sabaidee TV tvg-language=Thai tvg-country=TH tvg-id=Sabaidee TV tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=News,Sabaidee TV (News) (TH) (Thai)
+http://202.142.207.150:1935/live/livesabaidee3/playlist.m3u8
+#EXTINF:0 tvg-name=Sai Gon TV tvg-language=Vietnamese tvg-country=US tvg-id=Sai Gon TV tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemJj1haV0ecqiqbB94BOUhaTMUS5V9dwxz8u0U7VLchQ6GMJdL0hnoyw group-title=News,Sai Gon TV (News) (US) (Vietnamese)
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:0 tvg-name=Saigon TV tvg-language=Vietnamese tvg-country=VN tvg-id=Saigon TV tvg-logo=http://adslvnpt.com.vn/images/article/Saigon-TV-2.png group-title=News,Saigon TV (News) (VN) (Vietnamese)
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+#EXTINF:0 tvg-name=Sama Syria TV tvg-language=Arabic tvg-country=SY tvg-id=Sama Syria TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVANADqalbD33f8O-mcv7PeDrtnJCltmVIKpYnvH7-XDKS6uvfMyndeg group-title=News,Sama Syria TV (News) (SY) (Arabic)
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:0 tvg-name=Samaa News tvg-language=Urdu tvg-country=PK tvg-id=Samaa News tvg-logo=http://jobs.curcle.co/wp-content/uploads/2015/07/samaa_logo.png group-title=News,Samaa News (News) (PK) (Urdu)
+http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+#EXTINF:0 tvg-name=Sky TG24 tvg-language=Italian tvg-country=IT tvg-id=Sky TG24 tvg-logo=http://www.tv14.net/wp-content/uploads/2010/09/SKY-TG24.jpeg group-title=News,Sky TG24 (News) (IT) (Italian)
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0 tvg-name=Smachar Plus tvg-language=Hindi tvg-country=IN tvg-id=Smachar Plus tvg-logo=http://t2.gstatic.com/images?q=tbn:ANd9GcQsBcafGB_sSPcyEa8IBJfn56ttvEzz6eMg0hpZSJi8BOP0kO0Gvf2mMrpA group-title=News,Smachar Plus (News) (IN) (Hindi)
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+#EXTINF:0 tvg-name=Smash TV tvg-language=English tvg-country=US tvg-id=Smash TV tvg-logo=http://www.smash.com.mt/logo.png group-title=News,Smash TV (News) (US) (English)
+http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8
+#EXTINF:0 tvg-name=Speda TV tvg-language=Kurdish tvg-country=IQ tvg-id=Speda TV tvg-logo=http://live-tv.im/wp-content/uploads/2014/04/Speda-Channel.gif group-title=News,Speda TV (News) (IQ) (Kurdish)
+http://kurd-live.com:1935/live/speda/playlist.m3u8
+#EXTINF:0 tvg-name=TCH tvg-language=Russian tvg-country=RU tvg-id=TCH tvg-logo=http://www.tch.com/images/TCH_logo_final_header_small.jpg group-title=News,TCH (News) (RU) (Russian)
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:0 tvg-name=TELE SISTEMA tvg-language=Spanish tvg-country=ES tvg-id=TELE SISTEMA tvg-logo=http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png group-title=News,TELE SISTEMA (News) (ES) (Spanish)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:0 tvg-name=TRC Campeche tvg-language=Spanish tvg-country=MX tvg-id=TRC Campeche tvg-logo=http://i.imgur.com/ThytmUY.jpg group-title=News,TRC Campeche (News) (MX) (Spanish)
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:0 tvg-name=TRT Diyanet tvg-language=Turkish tvg-country=TR tvg-id=TRT Diyanet tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trt_diyanet.png/220px-Trt_diyanet.png group-title=News,TRT Diyanet (News) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0 tvg-name=TRT Haber tvg-language=Turkish tvg-country=TR tvg-id=TRT Haber tvg-logo=http://33.media.tumblr.com/tumblr_m9vlacoUZ21rn91il.png group-title=News,TRT Haber (News) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0 tvg-name=TRT KURDi tvg-language=Kurdish tvg-country=IQ tvg-id=TRT KURDi tvg-logo=http://i.ensonhaber.com/resimler/diger/trt_3236.jpg group-title=News,TRT KURDi (News) (IQ) (Kurdish)
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/chunklist_w1145884238_b665600.m3u8
+#EXTINF:0 tvg-name=TRT World tvg-language=English tvg-country=TR tvg-id=TRT World tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5ax_obC7mutun0qAFQjrSiMa9P5_G7nIFIi6SKAWxSrA0cqJHtVU-Iuk group-title=News,TRT World (News) (TR) (English)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 tvg-name=TRV El Salvador tvg-language=Spanish tvg-country=SV tvg-id=TRV El Salvador tvg-logo=http://i.imgur.com/D9ezRix.jpg group-title=News,TRV El Salvador (News) (SV) (Spanish)
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-name=TV Acapulco tvg-language=Spanish tvg-country=MX tvg-id=TV Acapulco tvg-logo=http://i.imgur.com/j4E53rA.jpg group-title=News,TV Acapulco (News) (MX) (Spanish)
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:0 tvg-name=TV Brasil tvg-language=Portuguese tvg-country=BR tvg-id=TV Brasil tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI1KeVd6m6p86aa9s-0XvOgR206ke3tU6gT2Czw_Zlc6ki8cISNsoBu48 group-title=News,TV Brasil (News) (BR) (Portuguese)
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:0 tvg-name=TV100 News tvg-language=Hindi tvg-country=IN tvg-id=TV100 News tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv3BBsYbMqSfyQCpEYayXgCqNoqap-MoNLLU9Nf3CWo0CqWF1GAkANUZ4 group-title=News,TV100 News (News) (IN) (Hindi)
+http://edge-ind.inapcdn.in:1935/wrap/1tvhundred.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-name=TV11 tvg-language=Telugu/Hindi tvg-country=IN tvg-id=TV11 tvg-logo=https://i.ytimg.com/vi/oo5XLq3cClk/hqdefault.jpg group-title=News,TV11 (News) (IN) (Telugu/Hindi)
+http://stream.logosys.in:1935/tv11/tv11/chunklist_w1267770452.m3u8
+#EXTINF:0 tvg-name=TVC News tvg-language=English tvg-country=NG tvg-id=TVC News tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/SunTVNews.png/220px-SunTVNews.png group-title=News,TVC News (News) (NG) (English)
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:0 tvg-name=TVI 24 tvg-language=Portuguese tvg-country=PT tvg-id=TVI 24 tvg-logo=http://www.tv14.net/wp-content/uploads/2010/10/TVI-24.gif group-title=News,TVI 24 (News) (PT) (Portuguese)
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+#EXTINF:0 tvg-name=TVM tvg-language=English/Deccan tvg-country=MV tvg-id=TVM tvg-logo=http://imaf.me/mv/t/TVM.png group-title=News,TVM (News) (MV) (English/Deccan)
+http://fl2.viastreaming.net:1935/tvm/livestream/playlist.m3u8
+#EXTINF:0 tvg-name=TVR 1 tvg-language=Romanian tvg-country=RO tvg-id=TVR 1 tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8Dz9zwgUfOCynt5S-8ICZHL8TtCKq1_vNot4ngCr4aYBz78lvZyKuiw group-title=News,TVR 1 (News) (RO) (Romanian)
+http://178.21.122.94:1935/live/_definst_/tvr1/playlist.m3u8
+#EXTINF:0 tvg-name=Tamil Aruvi tvg-language=Tamil tvg-country=IN tvg-id=Tamil Aruvi tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCmb-c1t-PUsou3UP6ygz2kwuIHYTrC6JfEFzOHmPp9rQTfGZ1qVHyNI group-title=News,Tamil Aruvi (News) (IN) (Tamil)
+http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Telemax TV tvg-language=Spanish tvg-country=MX tvg-id=Telemax TV tvg-logo=http://www.telemax.com.mx/wp-content/uploads/2015/03/Logo-Telemax.jpg group-title=News,Telemax TV (News) (MX) (Spanish)
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:0 tvg-name=Tez TV tvg-language=Hindi tvg-country=IN tvg-id=Tez TV tvg-logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/tez_tv_in.png group-title=News,Tez TV (News) (IN) (Hindi)
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdTezNewss84au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:0 tvg-name=The Weather Network Canada SD tvg-language=English tvg-country=CA tvg-id=The Weather Network Canada SD tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrU7S5MnIv5ySsmuyFBkGYsRqXKES1hj1SHcDLCYmszc72N58m1jfRMA group-title=News,The Weather Network Canada SD (News) (CA) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8
+#EXTINF:0 tvg-name=Times Now tvg-language=English tvg-country=IN tvg-id=Times Now tvg-logo=http://www.zoptv.com/assets/logo/times-now.png group-title=News,Times Now (News) (IN) (English)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD96_W_350.sdp/chunklist.m3u8
+#EXTINF:0 tvg-name=TreceVision tvg-language=Spanish tvg-country=MX tvg-id=TreceVision tvg-logo=http://i.imgur.com/c1yVzHO.png group-title=News,TreceVision (News) (MX) (Spanish)
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:0 tvg-name=Tv9 Telugu tvg-language=Telugu tvg-country=IN tvg-id=Tv9 Telugu tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3uQAE98Z1Mee5rIrOopYB1nzExlShUXcdhxdEmr_imVeUqXZbE2_Pm9M group-title=News,Tv9 Telugu (News) (IN) (Telugu)
+http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/chunklist_w1425689478.m3u8
+#EXTINF:0 tvg-name=Tv9 gujarati tvg-language=Gujarati tvg-country=IN tvg-id=Tv9 gujarati tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcRMsoJA-5CA92n6wDS-UwBdyYPSaBOC8OlbwxSVZ2U1awgS8si9B2QtE group-title=News,Tv9 gujarati (News) (IN) (Gujarati)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD206_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Tva tvg-language=French tvg-country=CA tvg-id=Tva tvg-logo=http://i.imgur.com/Sf7xOVQ.gif group-title=News,Tva (News) (CA) (French)
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:0 tvg-name=Twit Tech News tvg-language=English tvg-country=US tvg-id=Twit Tech News tvg-logo=https://yt3.ggpht.com/-FGimyfCH1HQ/AAAAAAAAAAI/AAAAAAAAAAA/867PAIRYTJc/s100-c-k-no/photo.jpg group-title=News,Twit Tech News (News) (US) (English)
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+#EXTINF:0 tvg-name=V Tele tvg-language=French tvg-country=CA tvg-id=V Tele tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo3UJ7CJFICZiRkFPb3-z0utidU4luCXVU5G12Dbe-xpGtGNfCWIKDgg group-title=News,V Tele (News) (CA) (French)
+rtmp://cp101680.live.edgefcs.net/live/livev_2@50832
+#EXTINF:0 tvg-name=V4 News tvg-language=Kannada tvg-country=IN tvg-id=V4 News tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ18VvgOUYkENq0CbtnBBm2scFl-Eno57vLcHsmt1b2puBQcfB5T4UuK8g group-title=News,V4 News (News) (IN) (Kannada)
+rtmp://studiosystem.in:1935/v4news/livestream3
+#EXTINF:0 tvg-name=VOV1 tvg-language=Vietnamese tvg-country=VN tvg-id=VOV1 tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfOcdmQP4EJT4UzGwnLPjjrz_hEFYTLsLKdB7yoUEL3bGLVrgRf71yH_M group-title=News,VOV1 (News) (VN) (Vietnamese)
+http://210.245.60.242:1935/vov1/vov1/playlist.m3u8
+#EXTINF:0 tvg-name=VTV Gujarati News tvg-language=Gujarati tvg-country=IN tvg-id=VTV Gujarati News tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6pARjtbzxTLPTLkMHdLOeJhbNZLEiz8Hc6Wbn-etA4sOucYSf634xgBU group-title=News,VTV Gujarati News (News) (IN) (Gujarati)
+rtmp://edge-ind.inapcdn.in:1935/berry/inewsup.stream_aac
+#EXTINF:0 tvg-name=VTV tvg-language=English tvg-country=MV tvg-id=VTV tvg-logo=http://imaf.me/mv/t/VTV.png group-title=News,VTV (News) (MV) (English)
+http://fl1.viastreaming.net:1935/vtvlive/vtv/playlist.m3u8
+#EXTINF:0 tvg-name=VTV1HD tvg-language=Vietnamese tvg-country=VN tvg-id=VTV1HD tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6FhoBukfgfEaMC2BgewhPOAlRgTAya6qc1Fh-XaumrhKxFy5_Fc_EYKs group-title=News,VTV1HD (News) (VN) (Vietnamese)
+rtmp://123.30.238.125/live/_definst_/vtv1-high
+#EXTINF:0 tvg-name=VTV2HD tvg-language=Vietnamese tvg-country=VN tvg-id=VTV2HD tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxUjrkW64EBmibtrJdy8zfBDUxpt2buyRJFp04rYNNm-oLUgqEiBW3q5I group-title=News,VTV2HD (News) (VN) (Vietnamese)
+rtmp://123.30.238.125/live/_definst_/vtv2-high
+#EXTINF:0 tvg-name=VTV3HD tvg-language=Vietnamese tvg-country=VN tvg-id=VTV3HD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxhOtQioRiHHgH8en_t-Vhx3SJqtSPyZK-VaZPvjD9mDNw-xpSRJ_dqw group-title=News,VTV3HD (News) (VN) (Vietnamese)
+rtmp://123.30.238.125/live/_definst_/vtv3-high
+#EXTINF:0 tvg-name=VTV6HD tvg-language=Vietnamese tvg-country=VN tvg-id=VTV6HD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm2bxu3ETzD3YmajEmMwNmtzUGdf6ueYYJGO_v0KcIwQ8wSQ-iTzrPgcc group-title=News,VTV6HD (News) (VN) (Vietnamese)
+rtmp://123.30.238.125/live/_definst_/vtv6-high
+#EXTINF:0 tvg-name=VTV8 tvg-language=Vietnamese tvg-country=VN tvg-id=VTV8 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrHNqUUfneKTreQDdefNokfKH1yA0KP5GJo1ju2DaiW7C7XW68GwL8e4 group-title=News,VTV8 (News) (VN) (Vietnamese)
+rtmp://123.30.238.125/live/_definst_/vtv8-mid
+#EXTINF:0 tvg-name=VTVcab4 tvg-language=Vietnamese tvg-country=VN tvg-id=VTVcab4 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRLZSDlnApwPLsU-ir8n0qQPRb7zBpaw_ypuguXW70DnIuaGkE981hA0 group-title=News,VTVcab4 (News) (VN) (Vietnamese)
+rtmp://118.70.203.130/channel/_definst_/vtvcab4_profile1.stream
+#EXTINF:0 tvg-name=Viet Global tvg-language=Vietnamese tvg-country=US tvg-id=Viet Global tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXrs6REGJ500_CU4eiHJHlVIWEWSi7Xi3Oeul5hpFksVvYfhZMuzENy2Q group-title=News,Viet Global (News) (US) (Vietnamese)
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+#EXTINF:0 tvg-name=Voa Persian tvg-language=Arabic tvg-country=IR tvg-id=Voa Persian tvg-logo=http://iran-livetv.com/tv/images/voa.jpg group-title=News,Voa Persian (News) (IR) (Arabic)
+http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+#EXTINF:0 tvg-name=Vsh News tvg-language=Balochi/Urdu tvg-country=PK tvg-id=Vsh News tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRadXBQYy68DpLFiChgPQOmMCTbIaetr_qm9hHg0THmIMN5:Q4xlq6Wg group-title=News,Vsh News (News) (PK) (Balochi/Urdu)
+http://streamer61.eboundservices.com/mobile/vsh/playlist.m3u8
+#EXTINF:0 tvg-name=Vstar TV tvg-language=Vietnamese tvg-country=VN tvg-id=Vstar TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNuOAxs-hHMtJKiNB--pnzqa0hI5oonSjjfhhxQUJ3MBQ47NZGsnR5mQ group-title=News,Vstar TV (News) (VN) (Vietnamese)
+http://origin.onworldtv.com:1935/liveorigin/vstartv/chunklist.m3u8
+#EXTINF:0 tvg-name=WFTV ABC Florida tvg-language=English tvg-country=US tvg-id=WFTV tvg-logo=http://rogersimmons.com/wp-content/uploads/2010/06/wftv-9-abc-HORT-PEARL.jpg group-title=News,WFTV ABC Florida (News) (US) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:0 tvg-name=WGN Chicago tvg-language=English tvg-country=US tvg-id=WGN tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WGN_America_logo_2014.png/145px-WGN_America_logo_2014.png group-title=News,WGN Chicago (News) (US) (English)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0 tvg-name=Weather Channel tvg-language=English tvg-country=CA tvg-id=Weather Channel tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRsvKWbsbuZD8R47Tm8qG5p5Ce-kerNOrVN-0PTw9QIPzMR9nT4xFHROc group-title=News,Weather Channel (News) (CA) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:0 tvg-name=Weather Nation tvg-language=English tvg-country=US tvg-id=Weather Nation tvg-logo=http://i.imgur.com/1JEerNY.jpg group-title=News,Weather Nation (News) (US) (English)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0 tvg-name=Weather Network tvg-language=English tvg-country=CA tvg-id=Weather Network tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4nZgSEeLNn5rqkuibvoflczpuDx_qR_yrJXeC__pJvO227OM-GGLQF5o group-title=News,Weather Network (News) (CA) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:0 tvg-name=Xtremo channel tvg-language=Spanish tvg-country=ES tvg-id=Xtremo channel tvg-logo=http://dominicaninternet.com/servicios/images/xtremo_logo_player.png group-title=News,Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0 tvg-name=ZNS TV tvg-language=English tvg-country=BS tvg-id=ZNS TV tvg-logo=http://thewatchtv.com/wp-content/uploads/2013/02/Watch-ZNS-TV-Live-TV-from-Bahamas.jpg group-title=News,ZNS TV (News) (BS) (English)
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-name=Zee Business tvg-language=Hindi tvg-country=IN tvg-id=Zee Business tvg-logo=http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2014/07/04/zee_news_logo.jpg group-title=News,Zee Business (News) (IN) (Hindi)
+http://zeeapp-lh.akamaihd.net/i/zeebusiness_1@331483/index_500_av-p.m3u8?sd=10&rebase;=on&hdntl;=exp=1446670007~acl=2f*~data=hdntl~hmac=051d834c31e46afe95217c47af761d97538238e3153869f102670701a1dc0bec
+#EXTINF:0 tvg-name=Zee News tvg-language=Hindi tvg-country=IN tvg-id=Zee News tvg-logo=http://t3.gstatic.com/images?q=tbn:ANd9GcRrHlap-fE9CcywE4_of7ATvi3QDPqeOmmCzi3fb2e5fwjmfAsJT34csG3b group-title=News,Zee News (News) (IN) (Hindi)
+http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
+#EXTINF:0 tvg-name=i24 News Arabia tvg-language=Arabic tvg-country=SA tvg-id=i24 News Arabia tvg-logo=http://cdn.i24news.tv/bundles/i24newsfront/img/logo-print.png group-title=News,i24 News Arabia (News) (SA) (Arabic)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0 tvg-name=i24 News tvg-language=English tvg-country=US tvg-id=i24 News tvg-logo=http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png group-title=News,i24 News (News) (US) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:0 tvg-name=iNews tvg-language=Telugu tvg-country=IN tvg-id=iNews tvg-logo=http://images.cloud.yuppcdn.net/yupptv/roku/images/i_news_roku.jpg group-title=News,iNews (News) (IN) (Telugu)
+https://www.youtube.com/watch?v=SLdgbcmF6Ao.m3u8
+#EXTINF:0 tvg-name=ktn Live tvg-language=English tvg-country=KE tvg-id=ktn Live tvg-logo=http://softkenya.com/media/wp-content/uploads/sites/46/2012/03/KTN-TV-Kenya-Live-Online-News.jpg group-title=News,ktn Live (News) (KE) (English)
+http://103.24.96.74:1935/ktn/ktnnews/playlist.m3u8
+#EXTINF:0 tvg-name=Adhyatm TV tvg-language=Hindi tvg-country=IN tvg-id=Adhyatm TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCOvfTneRo-Q6Po7vHCsvv9ZJKWWiQLGErXPRQe8Aem8zLkt-ja4f0Xg group-title=Documentary,Adhyatm TV (Documentary) (IN) (Hindi)
+http://live.wmncdn.net/adhyatmtv/26e9e47183cf186eef4d6553c7629240.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Adinet TV tvg-language=Portuguese tvg-country=BR tvg-id=Adinet TV tvg-logo=http://www.vertvbr.net/imagens/logo2.png group-title=Documentary,Adinet TV (Documentary) (BR) (Portuguese)
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+#EXTINF:0 tvg-name=Agro Canal tvg-language=Portuguese tvg-country=BR tvg-id=Agro Canal tvg-logo=http://www.freeetv.com/images/03_logo/AgroCanal_Brazil.jpg group-title=Documentary,Agro Canal (Documentary) (BR) (Portuguese)
+http://srvvenus.canaldoboi.com.br/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name=Al Hurra tvg-language=Arabic tvg-country=IQ tvg-id=Al Hurra tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/86/Al_Hurra_logo.png group-title=Documentary,Al Hurra (Documentary) (IQ) (Arabic)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 tvg-name=Alijazeera Documentary tvg-language=Arabic tvg-country=QA tvg-id=Alijazeera Doc tvg-logo=http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg group-title=Documentary,Alijazeera Documentary (Documentary) (QA) (Arabic)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0 tvg-name=Amazing Discoveries tvg-language=English tvg-country=US tvg-id=Amazing Discoveries tvg-logo=http://amazingdiscoveries.tv/images/adtv_logo_click_to_play.jpg group-title=Documentary,Amazing Discoveries (Documentary) (US) (English)
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:0 tvg-name=Angel TV tvg-language=Hindi tvg-country=IN tvg-id=Angel TV tvg-logo=http://ing-sat.what.hu/images/logo-insert/satlogos/india/571-Angel-TV5B35D.jpg group-title=Documentary,Angel TV (Documentary) (IN) (Hindi)
+http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/playlist.m3u8
+#EXTINF:0 tvg-name=Aninal Channel HD tvg-language=Russian tvg-country=RU tvg-id=Animal Channel HD tvg-logo=http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo.png group-title=Documentary,Aninal Channel HD (Documentary) (RU) (Russian)
+http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/playlist.m3u8
+#EXTINF:0 tvg-name=Animal Planet tvg-language=English tvg-country=US tvg-id=Animal Planet tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG group-title=Documentary,Animal Planet (Documentary) (US) (English)
+http://167.114.102.27/live/GvpPBu209qYeKax-vPIMUQ/1461775584/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Aprende TV tvg-language=Spanish tvg-country=MX tvg-id=Aprende TV tvg-logo=http://i.imgur.com/27onNLM.png group-title=Documentary,Aprende TV (Documentary) (MX) (Spanish)
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:0 tvg-name=Aradana TV tvg-language=Telugu tvg-country=IN tvg-id=Aradana TV tvg-logo=http://imgresize.yupptv.in/img.php?src=http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/aradana_tv_roku.jpg&w;=600&h;=315 group-title=Documentary,Aradana TV (Documentary) (IN) (Telugu)
+http://servicioamerica.net:1935/8282/aradanatv/playlist.m3u8
+#EXTINF:0 tvg-name=Arirang TV World tvg-language=English tvg-country=KR tvg-id=Arirang TV World tvg-logo=http://www.vasiantv.com/wp-content/uploads/2012/12/arirang-300x200.jpg group-title=Documentary,Arirang TV World (Documentary) (KR) (English)
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:0 tvg-name=Arte tvg-language=German tvg-country=DE tvg-id=Arte tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/670px-Arte_HD_Verlauf_Logo.svg.png group-title=Documentary,Arte (Documentary) (DE) (German)
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
+#EXTINF:0 tvg-name=Athmeeya Yathra TV tvg-language=Malayalam tvg-country=IN tvg-id=Athmeeya Yathra TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0V4q-0w3c_g8JVcS__1CCylYqA6nnZNSq6mLEoRdSb4nR8L7wmu-gvIo group-title=Documentary,Athmeeya Yathra TV (Documentary) (IN) (Malayalam)
+http://live.wmncdn.net/aylivetv/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Bhaagya TV tvg-language=Hindi tvg-country=IN tvg-id=Bhaagya TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL4gCb6vcIBa0dWblpbqF_NsVKBI-OPVAfErIK_RwFtmi4Et0muRvAxQ group-title=Documentary,Bhaagya TV (Documentary) (IN) (Hindi)
+rtmp://live.wmncdn.net/bhaagya1/54f1d025e282fee369a8f2d44998dc49.sdp
+#EXTINF:0 tvg-name=BoaVontade tvg-language=Portuguese tvg-country=BR tvg-id=BoaVontade tvg-logo=http://www.tv14.net/wp-content/uploads/2010/09/Boa-Vontade-TV.jpeg group-title=Documentary,BoaVontade (Documentary) (BR) (Portuguese)
+http://flash1.crossdigital.com.br:1935/755/755/live.m3u8
+#EXTINF:0 tvg-name=C7 Cultura tvg-language=Spanish tvg-country=MX tvg-id=C7 Cultura tvg-logo=http://i.imgur.com/WkyZNVF.jpg group-title=Documentary,C7 Cultura (Documentary) (MX) (Spanish)
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:0 tvg-name=CTC tvg-language=Russian tvg-country=RU tvg-id=CTC tvg-logo=http://vignette2.wikia.nocookie.net/logopedia/images/b/b6/Logo_CTC_1989.jpg/revision/latest3Fcb3D20131029010515 group-title=Documentary,CTC (Documentary) (RU) (Russian)
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 45 Ceiba tvg-language=Spanish tvg-country=HN tvg-id=Canal 45 Ceiba tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzccC1XbHsTWDa4857oqE439XIE03W6L4oVcW7iUhclUviU61hudU25mE group-title=Documentary,Canal 45 Ceiba (Documentary) (HN) (Spanish)
+http://sjc-uhls-proxy04.ustream.tv/watch/playlist.m3u8?cid=19421752&appType;=11&appVersion;=2&locks;=97d170e1550eee4afc0af065b78cda302a97674c&geo;=US&geocity;=Ocean20Springs&userId;=&connectionId;=sjc-flot-live07_1734843275&ts;=1458776559&ip;=99.113.254.237&cdn;=uhs_akamai&sgn;=f2301c88ee4b772cf539a6cbcad89e3e5810cb21
+#EXTINF:0 tvg-name=Canal Do Boi tvg-language=Portuguese tvg-country=BR tvg-id=Canal Do Boi tvg-logo=http://www.gmkfreelogos.com/logos/C/img/Canal_do_Boi.gif group-title=Documentary,Canal Do Boi (Documentary) (BR) (Portuguese)
+http://srvvenus.canaldoboi.com.br/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name=Channel S tvg-language=Bengali/Sylheti tvg-country=UK tvg-id=Channel S tvg-logo=https://en.wikipedia.org/wiki/Channel_S#/media/File:Channel_S_logo.JPG group-title=Documentary,Channel S (Documentary) (UK) (Bengali/Sylheti)
+http://cdn02.iqbroadcast.tv/iqb01/ad4e11a583b062d0039b0f1f96769c4b.sdp/chunklist.m3u8
+#EXTINF:0 tvg-name=Deliver TV tvg-language=Spanish tvg-country=MX tvg-id=Deliver TV tvg-logo=http://i.imgur.com/Rgbf8DK.jpg group-title=Documentary,Deliver TV (Documentary) (MX) (Spanish)
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:0 tvg-name=Discovery Channel HD tvg-language=Spanish tvg-country=MX tvg-id=Discovery Channel HD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNCJgmHnzO-fQXXf1OsNr4O5egD-LUo2vL9vmD8X5OJafrnluVMSKZzQ group-title=Documentary,Discovery Channel HD (Documentary) (MX) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name=Discovery Channel tvg-language=English tvg-country=US tvg-id=Discovery Channel tvg-logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg group-title=Documentary,Discovery Channel (Documentary) (US) (English)
+http://167.114.102.27/live/cbSnnpFK12iWz2_siaS0Mg/1461775803/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Discovery Theater HD tvg-language=English tvg-country=US tvg-id=Discovery Theater HD tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRimrEagvlJvrJ_E3VYqzIcS6ReYaHGHZt1hEyKEyfGwslP3VaFeIZIcA group-title=Documentary,Discovery Theater HD (Documentary) (US) (English)
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332/1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-name=Discovery tvg-language=English tvg-country=IN tvg-id=Discovery tvg-logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg group-title=Documentary,Discovery (Documentary) (IN) (English)
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+#EXTINF:0 tvg-name=EWTN tvg-language=Spanish tvg-country=CO tvg-id=EWTN tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpV9Gcm93BUHztcVXXcoXN4DW4ZNKrUzDulR72x2me8hXqjdyIox4WdTo group-title=Documentary,EWTN (Documentary) (CO) (Spanish)
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
+#EXTINF:0 tvg-name=Fateh TV tvg-language=Punjabi tvg-country=IN tvg-id=Fateh TV tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObiEmoAiZUrJ80Rfm6FVYqWDkSpt_NMhaScER7FUHnizhNS8J3tnV2w group-title=Documentary,Fateh TV (Documentary) (IN) (Punjabi)
+rtmp://edge-ap2.cloudfrontcdn.in:1935/hydra/fatehtv.sdp
+#EXTINF:0 tvg-name=Goodness TV tvg-language=Malayalam tvg-country=IN tvg-id=Goodness TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-cOB5xYokPKahtpbjg8scELH6yZPPxs3esnVhAzk1UcMAqLPQzZT6pQ group-title=Documentary,Goodness TV (Documentary) (IN) (Malayalam)
+rtmp://livestream-tb.wmncdn.net/goodnesstv123/bbb19eae240ec100af921d511efc86a0.sdp
+#EXTINF:0 tvg-name=HOLYGOD TV tvg-language=Tamil tvg-country=FR tvg-id=HOLYGOD TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTbgsMY529E5N8v76H-oB15mLD60jVy40vkdBTpz6usJEg4dl_QCmKgQ group-title=Documentary,HOLYGOD TV (Documentary) (FR) (Tamil)
+http://rk7sp5cv.files.holygod.tv/hls-live/livepkgr/_definst_/liveevent/HGTV.m3u8
+#EXTINF:0 tvg-name=Harvest TV USA tvg-language=Malayalam tvg-country=IN tvg-id=Harvest TV USA tvg-logo=http://static.aka.yupp.yuppcdn.net/yupptv/channel_logos_new/harvest_usa.png group-title=Documentary,Harvest TV USA (Documentary) (IN) (Malayalam)
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Heaven TV tvg-language=Tamil tvg-country=IN tvg-id=Heaven TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzrF6vMv3CEn5Nkk6k4Rbbs5rbmS0-I85ixS5wYm_hmNYiXHbCLbHkSw group-title=Documentary,Heaven TV (Documentary) (IN) (Tamil)
+http://69.28.84.247/liveevent.m3u8
+#EXTINF:0 tvg-name=History Canada tvg-language=English tvg-country=CA tvg-id=History Canada tvg-logo=http://www.userlogos.org/files/logos/14505_deva/ccloud1.png group-title=Documentary,History Canada (Documentary) (CA) (English)
+https://history-lh.akamaihd.net/i/History_1@156885/master.m3u8
+#EXTINF:0 tvg-name=History tvg-language=Russian tvg-country=RU tvg-id=History tvg-logo=https://macin.files.wordpress.com/2008/09/plex-icon-512x512.png group-title=Documentary,History (Documentary) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/111/index.m3u8
+#EXTINF:0 tvg-name=History tvg-language=English tvg-country=US tvg-id=History tvg-logo=http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png group-title=Documentary,History (Documentary) (US) (English)
+http://167.114.102.27/live/4SWAz75WG-AwQgwJ0wY5cA/1461775589/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Ingenio TV tvg-language=Spanish tvg-country=MX tvg-id=Ingenio TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMM0grU2ShX_IXFljelJ9J0S9LiWXxq7cI1koPQM_nvVYl-YrswVspdhQ group-title=Documentary,Ingenio TV (Documentary) (MX) (Spanish)
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:0 tvg-name=Irib Amoozesh tvg-language=Arabic tvg-country=IR tvg-id=Irib Amoozesh tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IRIB_TV7.png/150px-IRIB_TV7.png group-title=Documentary,Irib Amoozesh (Documentary) (IR) (Arabic)
+http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
+#EXTINF:0 tvg-name=Irib Mostanad tvg-language=Arabic tvg-country=IR tvg-id=Irib Mostanad tvg-logo=https://upload.wikimedia.org/wikipedia/en/c/c9/IRIB_Mostanad_Logo.png group-title=Documentary,Irib Mostanad (Documentary) (IR) (Arabic)
+http://63.237.48.23/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
+#EXTINF:0 tvg-name=Israeli Ch 1 tvg-language=Israeli tvg-country=IL tvg-id=Israeli Ch 1 tvg-logo=http://attachments.team-mediaportal.com/2014/01/thumb/184142_Ch_1.png group-title=Documentary,Israeli Ch 1 (Documentary) (IL) (Israeli)
+http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist_w458420133_b1392000.m3u8
+#EXTINF:0 tvg-name=Israeli Ch 10 tvg-language=Israeli tvg-country=IL tvg-id=Israeli Ch 10 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/a2/Channel_10_logo.jpg group-title=Documentary,Israeli Ch 10 (Documentary) (IL) (Israeli)
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_2C10002C15002C18002C/playlist.m3u8
+#EXTINF:0 tvg-name=Israeli Ch 2 Keshet tvg-language=Israeli tvg-country=IL tvg-id=Israeli Ch 2 Keshet tvg-logo=http://pmcdeadline2.files.wordpress.com/2014/04/keshet__140404145629.png3Fw3D970 group-title=Documentary,Israeli Ch 2 Keshet (Documentary) (IL) (Israeli)
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
+#EXTINF:0 tvg-name=Israeli Ch 2 Reshet tvg-language=Israeli tvg-country=IL tvg-id=Israeli Ch 2 Reshet tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/a2/Channel_10_logo.jpg group-title=Documentary,Israeli Ch 2 Reshet (Documentary) (IL) (Israeli)
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+#EXTINF:0 tvg-name=Israeli Ch 24 tvg-language=Israeli tvg-country=IL tvg-id=Israeli Ch 24 tvg-logo=https://upload.wikimedia.org/wikipedia/en/d/da/Channel_9_Malaysia_logo.jpg group-title=Documentary,Israeli Ch 24 (Documentary) (IL) (Israeli)
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-p.m3u8
+#EXTINF:0 tvg-name=Jesus is Alive TV tvg-language=Malayalam tvg-country=IN tvg-id=Jesus is Alive TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJZ_GlnrullCo9h_1N8S_bcWp9fzf8iM1QUgVJq7ZslxpDt-owIueq12g group-title=Documentary,Jesus is Alive TV (Documentary) (IN) (Malayalam)
+rtmp://live.wmncdn.net/elshaddai/54b8cff3e58c10d5ceff54eb05748832.sdp
+#EXTINF:0 tvg-name=La 2 RTVE tvg-language=Spanish tvg-country=ES tvg-id=La 2 RTVE tvg-logo=http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png group-title=Documentary,La 2 RTVE (Documentary) (ES) (Spanish)
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name=Lakshya TV tvg-language=Gujarati tvg-country=IN tvg-id=Lakshya TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTy_hzxpBlNvAlizVip71U9qUg874xmTtgjZsJmKlklCVANAo_EHucpww group-title=Documentary,Lakshya TV (Documentary) (IN) (Gujarati)
+http://31.14.40.163:1935/trans/stream_2/playlist.m3u8
+#EXTINF:0 tvg-name=Lifestyle US tvg-language=English tvg-country=US tvg-id=Lifestyle US tvg-logo=http://www.buildingalifestyle.com/wp-content/uploads/2013/12/logo1.png group-title=Documentary,Lifestyle US (Documentary) (US) (English)
+http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
+#EXTINF:0 tvg-name=London Live TV tvg-language=English tvg-country=UK tvg-id=London Live TV tvg-logo=http://i.imgur.com//l30Zz.png group-title=Documentary,London Live TV (Documentary) (UK) (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0 tvg-name=MNC TV Indonesia tvg-language=Indonesian/English tvg-country=ID tvg-id=MNC TV Indonesia tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTRG5d7ExxSluTRARY4gVx_mXYsbliWx4YOjpcPKAlyCHcX_zPQG3M group-title=Documentary,MNC TV Indonesia (Documentary) (ID) (Indonesian/English)
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_all/playlist.m3u8
+#EXTINF:0 tvg-name=Mahua Plus tvg-language=Bhojpuri tvg-country=IN tvg-id=Mahua Plus tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1zFv6xtpt5lZ8rBjHwb5pC9W7PBXBUltklCvsFcrY21nOH7pry0DF1Q group-title=Documentary,Mahua Plus (Documentary) (IN) (Bhojpuri)
+http://dwtxzmpqbxo9s.cloudfront.net/mahuaatv/ngrp:mahuaaplus_all/chunklist_b500000.m3u8
+#EXTINF:0 tvg-name=Mexiquense TV tvg-language=Spanish tvg-country=MX tvg-id=Mexiquense TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8KdcEjXECJbFgghdINF_Eqp51cCLyBMe68brwIr2k9Nl2-ROpb5621t8 group-title=Documentary,Mexiquense TV (Documentary) (MX) (Spanish)
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1 
+#EXTINF:0 tvg-name=NASA TV tvg-language=English tvg-country=US tvg-id=NASA TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw-atYwF5JV8rsdlt0s7366VrcdlcaVrqpYqntvoJH9-0WNNFf50wjm8c group-title=Documentary,NASA TV (Documentary) (US) (English)
+https://gist.githubusercontent.com/benlk/aee1b3fe393a79f8e160/raw/9eaa2d003ad58f9f6f50df5565dfedd9defb8a50/NASA-public.m3u82520
+#EXTINF:0 tvg-name=Namma TV tvg-language=Kannada/English tvg-country=IN tvg-id=Namma TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZYrJHjFToyKuJuZDmMR6szrv1et4oTukjuTLGynCnvZ_CDsXVxWYrts8 group-title=Documentary,Namma TV (Documentary) (IN) (Kannada/English)
+http://103.228.220.250:1935/livestream/livestream/livestream/playlist.m3u8
+#EXTINF:0 tvg-name=Nasa TV Education tvg-language=English tvg-country=US tvg-id=Nasa TV Education tvg-logo=http://cdn-radiotime-logos.tunein.com/s18889q.png group-title=Documentary,Nasa TV Education (Documentary) (US) (English)
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
+#EXTINF:0 tvg-name=National Geographic tvg-language=English tvg-country=MY tvg-id=National Geographic tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe0WGFKXZipJ-dBbxmLxY6mSd1jrt-8wBDdfhcVG37_tgWnxFEBjglfHI group-title=Documentary,National Geographic (Documentary) (MY) (English)
+rtmp://195.154.188.161/live/ngchd playpath=ngchd swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/national-geographic
+#EXTINF:0 tvg-name=National Geographic tvg-language=English tvg-country=US tvg-id=National Geographic tvg-logo=http://famouslogos.net/images/national-geographic-logo.jpg group-title=Documentary,National Geographic (Documentary) (US) (English)
+http://167.114.102.27/live/vS4m1drJ4513I7NriaGoGA/1461776068/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Nithyananda TV Kannada tvg-language=Kannada/English tvg-country=IN tvg-id=Nithyananda TV Kannada tvg-logo=https://yt3.ggpht.com/-MjFC1Y99Q24/AAAAAAAAAAI/AAAAAAAAAAA/qHf_KqMZSD8/s100-c-k-no/photo.jpg group-title=Documentary,Nithyananda TV Kannada (Documentary) (IN) (Kannada/English)
+http://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500/playlist.m3u8
+#EXTINF:0 tvg-name=OTV Prarthana tvg-language=Oriya tvg-country=IN tvg-id=OTV Prarthana tvg-logo=http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/a8afc414-7fee-11e1-8415-123141010175.jpg group-title=Documentary,OTV Prarthana (Documentary) (IN) (Oriya)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD94_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Outdoor Channel tvg-language=Russian/English tvg-country=RU tvg-id=Outdoor Channel tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj7mQj3hrt5EwIgJaZiWTleRQ6v2_JOW04oP7N-kBcBp35TRAA0CM6Ql0 group-title=Documentary,Outdoor Channel (Documentary) (RU) (Russian/English)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/119/index.m3u8
+#EXTINF:0 tvg-name=Peace of Mind TV tvg-language=Hindi tvg-country=IN tvg-id=Peace of Mind TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFd3mky1iw7nxDjRt_FeU-N7hHP5IZYTmIIOr_ZsjYKP0jwHyGUqYkRA group-title=Documentary,Peace of Mind TV (Documentary) (IN) (Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD165_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Powervision TV tvg-language=Malayalam tvg-country=IN tvg-id=Powervision TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo2t-uIjfTtMwA_aiRfkWnfqUCfTYNmQG7hCdcVnqC1XRDvW-DpdKNMg group-title=Documentary,Powervision TV (Documentary) (IN) (Malayalam)
+rtmp://live.wmncdn.net/powervs/184bea37f4d62ac5c80d6b2f99f04646.sdp
+#EXTINF:0 tvg-name=RT Documentary HD tvg-language=English tvg-country=RU tvg-id=RT Documentary HD tvg-logo=https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png group-title=Documentary,RT Documentary HD (Documentary) (RU) (English)
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:0 tvg-name=RT Documentary tvg-language=English tvg-country=RU tvg-id=RT Documentary tvg-logo=https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png group-title=Documentary,RT Documentary (Documentary) (RU) (English)
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:0 tvg-name=RTVida tvg-language=Spanish tvg-country=ES tvg-id=RTVida tvg-logo=http://www.eniyitv.com/wp-content/uploads/2013/03/rtvida-tv-logo.png group-title=Documentary,RTVida (Documentary) (ES) (Spanish)
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+#EXTINF:0 tvg-name=Rodja TV tvg-language=Indonesian tvg-country=ID tvg-id=Rodja TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEKJW-FycOM6IbUJ13RfdYxS8B9gptkmSF6veaLxH7hgrpcxGQFKwoVQ group-title=Documentary,Rodja TV (Documentary) (ID) (Indonesian)
+rtmp://vids.rodja.tv/live/rodja
+#EXTINF:0 tvg-name=Ronahi TV tvg-language=Kurdish tvg-country=IQ tvg-id=Ronahi TV tvg-logo=http://www.ronahitv.com/assets/images/logo-footer.png group-title=Documentary,Ronahi TV (Documentary) (IQ) (Kurdish)
+http://62.210.100.139:1935/ronahitv/smil:ronahi.smil/chunklist_w824294082_b886000_slen.m3u8
+#EXTINF:0 tvg-name=SCTV Du Lich & Kham Pha tvg-language=Vietnamese tvg-country=VN tvg-id=SCTV Du Lich & Kham Pha tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kJM1OtHu-s_z3X-0yc8azwB2ffVVxkcj5upbACskFFZ9_bRPByKVKg group-title=Documentary,SCTV Du Lich & Kham Pha (Documentary) (VN) (Vietnamese)
+rtmp://112.197.2.135:1935/colive/C007_HD_4
+#EXTINF:0 tvg-name=SCTVHD Du Lich tvg-language=Vietnamese tvg-country=VN tvg-id=SCTVHD Du Lich tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCjLqS4JJdscHFoEZSSgmgH7v_ybI9-sDrW_KmVoxCUmrXR8Kuqfa2js group-title=Documentary,SCTVHD Du Lich (Documentary) (VN) (Vietnamese)
+http://112.197.2.135:1935/colive/C007_HD_4/chunklist.m3u8
+#EXTINF:0 tvg-name=SVBC TV tvg-language=Telugu tvg-country=IN tvg-id=SVBC TV tvg-logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/svbc_in.png group-title=Documentary,SVBC TV (Documentary) (IN) (Telugu)
+http://367449830.r.cdnsun.net/367449830/_definst_/svbctv/playlist.m3u8
+#EXTINF:0 tvg-name=Safari TV tvg-language=Malayalam/English tvg-country=IN tvg-id=Safari TV tvg-logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/safari_tv_in.png group-title=Documentary,Safari TV (Documentary) (IN) (Malayalam/English)
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Santuario De Fatima tvg-language=Portuguese tvg-country=PT tvg-id=Santuario De Fatima tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuM-QPCvveAGZE23JT8fZBIhRMTWKENGj_OY8F6GXNcaY0-SAnn8t-pg group-title=Documentary,Santuario De Fatima (Documentary) (PT) (Portuguese)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 tvg-name=Sri Sankara TV tvg-language=Kannada/Tamil tvg-country=IN tvg-id=Sri Sankara TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf5wL_adqOv3Dmdnk68dnTyjmiVvwvNY_vmajE40bxGdq4yThfgUwrxA group-title=Documentary,Sri Sankara TV (Documentary) (IN) (Kannada/Tamil)
+http://live.wmncdn.net/srisankaratv1/9eb9148fa87e403c1366c8d9aed89bed.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Subhavaartha TV tvg-language=Telugu tvg-country=IN tvg-id=Subhavaartha TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrP1sZfj2OWxIvoWn0_8nkJj69jhZK9QG_kx6abSGF-2aS8hEHs9ggtkI group-title=Documentary,Subhavaartha TV (Documentary) (IN) (Telugu)
+http://live.wmncdn.net/shubhavarthatv/cca558f94400b9001e5726fd1fac8c29.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Swasthik TV tvg-language=Tamil tvg-country=IN tvg-id=Swasthik TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7DXMWPdr0r3ae5N99NFjjotbCTY8F1Kg1d6_kgvLbRGzuCUfTII86lTw group-title=Documentary,Swasthik TV (Documentary) (IN) (Tamil)
+http://flash1.chennaistream.net/swasthiktv/_definst_/swasthikwebtv1/playlist.m3u8
+#EXTINF:0 tvg-name=Syria Sat tvg-language=Arabic tvg-country=SY tvg-id=Syria Sat tvg-logo=http://www.pcimissionoverseas.org/fs/img/news/rs-200xnc/sat-7-logo.jpg group-title=Documentary,Syria Sat (Documentary) (SY) (Arabic)
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:0 tvg-name=TRT Belgesel tvg-language=Turkish tvg-country=TR tvg-id=TRT Belgesel tvg-logo=https://upload.wikimedia.org/wikipedia/en/e/e5/Trt_belgesel_logo.png group-title=Documentary,TRT Belgesel (Documentary) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0 tvg-name=TV Maya Guatemala tvg-language=Spanish tvg-country=GT tvg-id=TV Maya Guatemala tvg-logo=http://i.imgur.com/kkERjS2.jpg group-title=Documentary,TV Maya Guatemala (Documentary) (GT) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name=TLX Telemax tvg-language=Spanish tvg-country=AR tvg-id=TXL Telemax tvg-logo=http://i.imgur.com/zBf7Vy1.png group-title=Documentary,TLX Telemax (Documentary) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 tvg-name=USCG Television Ecuador tvg-language=Spanish tvg-country=EX tvg-id=USCG Television Ecuador tvg-logo=http://puu.sh/nyTsI/8380211bcd.jpg group-title=Documentary,USCG Television Ecuador (Documentary) (EX) (Spanish)
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0 tvg-name=University of California TV tvg-language=English tvg-country=US tvg-id=University of California TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqingYWdLztB2ym8o2Y-MNY_Yn4QN01gDI9lSYqZHqp_T8O0dWtcNUYw group-title=Documentary,University of California TV (Documentary) (US) (English)
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:0 tvg-name=Viajar TV tvg-language=Spanish tvg-country=AR tvg-id=Viajar TV tvg-logo=http://i.imgur.com/jmrpUj2.png group-title=Documentary,Viajar TV (Documentary) (AR) (Spanish)
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0 tvg-name=Viasat History tvg-language=Russian tvg-country=UK tvg-id=Viasat History tvg-logo=http://static.timefor.tv/imgs/epg/logos/viasathistory_eu_big.png group-title=Documentary,Viasat History (Documentary) (UK) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/162/index.m3u8
+#EXTINF:0 tvg-name=Wellness TV tvg-language=Malayalam tvg-country=IN tvg-id=Wellness TV tvg-logo=http://mediaworldasia.dk/media/yendifvideoshare/videos/28/wellnesstv.jpg group-title=Documentary,Wellness TV (Documentary) (IN) (Malayalam)
+http://stream.akamain.info:1935/live/nonitv/playlist.m3u8
+#EXTINF:0 tvg-name=iPlus TV tvg-language=Urdu tvg-country=IN tvg-id=iPlus TV tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHvbdUGIbkdCAScOvTE_S80R53fBEeZlHGqjAyJxYef7eWnfguNJEhrw group-title=Documentary,iPlus TV (Documentary) (IN) (Urdu)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD322_W_250.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=rmc decouverte tvg-language=French tvg-country=FR tvg-id=rmc decouverte tvg-logo=https://upload.wikimedia.org/wikipedia/fr/e/ed/RMC_D25C325A9couverte_logo_2012.png group-title=Documentary,rmc decouverte (Documentary) (FR) (French)
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:0 tvg-name=1TV tvg-language=Pashto/Persian tvg-country=AF tvg-id=1TV tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQiVgHuCXe2sa9-mKVg8l1OS6TkAGavx4jFA2w1I6FhWtfrZm-OlCDz70 group-title=Entertainment,1TV (Entertainment) (AF) (Pashto/Persian)
+http://38.101.217.15:1935/ilink/live1tv/playlist.m3u8
+#EXTINF:0 tvg-name=324 tvg-language=Spanish tvg-country=ES tvg-id=324 tvg-logo=http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png group-title=Entertainment,324 (Entertainment) (ES) (Spanish)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0 tvg-name=360 TV tvg-language=Spanish tvg-country=ES tvg-id=360 TV tvg-logo=https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png group-title=Entertainment,360 TV (Entertainment) (ES) (Spanish)
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 tvg-name=5 Aab TV tvg-language=Punjabi tvg-country=IN tvg-id=5 Aab TV tvg-logo=http://t0.gstatic.com/images?q=tbn:ANd9GcRSkVux6g7kOZ3vKtAryiXb2se3zKEx-9tfrIvXZsJp0h1M1PopxJ3-pF4 group-title=Entertainment,5 Aab TV (Entertainment) (IN) (Punjabi)
+http://192.99.1.46:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0 tvg-name=6TER HD tvg-language=French tvg-country=FR tvg-id=6TER HD tvg-logo=https://cdn.nextinpact.com/images/bd/news/124355.png group-title=Entertainment,6TER HD (Entertainment) (FR) (French)
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:0 tvg-name=6ter tvg-language=French tvg-country=FR tvg-id=6ter tvg-logo=http://www.userlogos.org/files/logos/14505_deva/ccloud1.png group-title=Entertainment,6ter (Entertainment) (FR) (French)
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:0 tvg-name=8TV tvg-language=Spanish tvg-country=ES tvg-id=8TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjHO4cIAohj0HS4QYpMlwauk2JZboetzNcjXDeda8E6zZsW2_pQTz9rw group-title=Entertainment,8TV (Entertainment) (ES) (Spanish)
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+#EXTINF:0 tvg-name=9 XM Tamash tvg-language=Hindi tvg-country=IN tvg-id=9 XM Tamash tvg-logo=http://t1.gstatic.com/images?q=tbn:ANd9GcSm7kknbDMRc3lET-1wgmFUAMQyq2MBA2C9G4K8qVXS7Dybgz96Xf-tHniF group-title=Entertainment,9 XM Tamash (Entertainment) (IN) (Hindi)
+http://46.249.213.93/iPhone/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr402k.m3u8
+#EXTINF:0 tvg-name=9 XM tvg-language=Hindi tvg-country=US tvg-id=9 XM tvg-logo=http://t2.gstatic.com/images?q=tbn:ANd9GcS-VuKaTHHZilxmL1o-USNKfE5Fym2RYt3p2yhPW7BFgDFnZv_c3u19DQem group-title=Entertainment,9 XM (Entertainment) (US) (Hindi)
+http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
+#EXTINF:0 tvg-name=A&E; tvg-language=English tvg-country=US tvg-id=A&E; tvg-logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg group-title=Entertainment,A&E; (Entertainment) (US) (English)
+http://167.114.102.27/live/6gWOMYPAaREMxJsZZCq4QQ/1461776076/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Amazing Discoveries TV tvg-language=English tvg-country=CA tvg-id=ADTV tvg-logo=http://erich-gaspers.de/wp-content/uploads/2014/11/ADTV-Logo.png group-title=Entertainment,Amazing Discoveries TV (Entertainment) (CA) (English)
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:0 tvg-name=ALSAT 2 tvg-language=Macedonian tvg-country=MK tvg-id=ALSAT 2 tvg-logo=http://www.tv14.net/images/Alsat_tv.jpg group-title=Entertainment,ALSAT 2 (Entertainment) (MK) (Macedonian)
+http://fms.zulu.mk:554/zulu/alsat_2/playlist.m3u8
+#EXTINF:0 tvg-name=AMC tvg-language=English tvg-country=US tvg-id=AMC tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png group-title=Entertainment,AMC (Entertainment) (US) (English)
+http://167.114.102.27/live/sD87kfXUMHMwzHxbmDu6SA/1461776078/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=AMG tvg-language=English tvg-country=US tvg-id=AMG tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfcL57AIP51chNh7PE0KJdJZG2EjmUcm7IRf6XRDM3DGZ4ki_b3CnMA group-title=Entertainment,AMG (Entertainment) (US) (English)
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
+#EXTINF:0 tvg-name=ANB tvg-language=Arabic tvg-country=IQ tvg-id=ANB tvg-logo=http://www.ieeecss.org/CAB/conferences/cdc2009/img/250_and_logo.jpg group-title=Entertainment,ANB (Entertainment) (IQ) (Arabic)
+http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
+#EXTINF:0 tvg-name=ARRATV tvg-language=Tamil tvg-country=IN tvg-id=ARRATV tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=Entertainment,ARRATV (Entertainment) (IN) (Tamil)
+http://d2capdtzvh4kor.cloudfront.net/arratvorg/smil:arratv.smil/chunklist_b650000.m3u8
+#EXTINF:0 tvg-name=ATN tvg-language=Bengali tvg-country=BD tvg-id=ATN tvg-logo=http://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg group-title=Entertainment,ATN (Entertainment) (BD) (Bengali)
+http://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+#EXTINF:0 tvg-name=Aathavan TV tvg-language=Tamil tvg-country=IN tvg-id=Aathavan TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7pyAC2OIAFCbBS_A0SmEHUI3KVhBIzLWT4qmL6B9g-uR83wRGcIYJ group-title=Entertainment,Aathavan TV (Entertainment) (IN) (Tamil)
+http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8
+#EXTINF:0 tvg-name=Adult Swim tvg-language=English tvg-country=US tvg-id=Adult Swim tvg-logo=http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/Adult_Swim_logo.svg/revision/latest?cb=20100314200336 group-title=Entertainment,Adult Swim (Entertainment) (US) (English)
+http://adultswim-lh.akamaihd.net/i/adultswim_14@318522/master.m3u8
+#EXTINF:0 tvg-name=Almas tvg-language=Arabic tvg-country=IR tvg-id=Almas tvg-logo=http://logos.textgiraffe.com/logos/logo-name/Almas-designstyle-i-love-m.png group-title=Entertainment,Almas (Entertainment) (IR) (Arabic)
+http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+#EXTINF:0 tvg-name=Amazing Facts TV tvg-language=English tvg-country=US tvg-id=Amazing Facts TV tvg-logo=http://www.amazingfacts.org/Portals/_default/Skins/AFacts2015/af-images/aftv-logo.png group-title=Entertainment,Amazing Facts TV (Entertainment) (US) (English)
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+#EXTINF:0 tvg-name=Ambaal TV tvg-language=Tamil tvg-country=IN tvg-id=Ambaal TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrmtg8ZVf6JjF3U5T8t9O8kgeovZzbs0aeuTMxhgftcmQ8hLh1QGry6Q group-title=Entertainment,Ambaal TV (Entertainment) (IN) (Tamil)
+http://ambaaltv.adstream.eu:1935/live/ambaaltv/chunklist_w14253647.m3u8
+#EXTINF:0 tvg-name=America TV tvg-language=Spanish tvg-country=PE tvg-id=America TV tvg-logo=http://seeklogo.com/images/A/America_TV-logo-1774BA52B1-seeklogo.com.gif group-title=Entertainment,America TV (Entertainment) (PE) (Spanish)
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+#EXTINF:0 tvg-name=American Chinese tvg-language=Mandarin tvg-country=CH tvg-id=American Chinese tvg-logo=http://blog.wishlantern.com/wp-content/uploads/2011/03/chinese-american-museum-wish-lantern-festival.jpg group-title=Entertainment,American Chinese (Entertainment) (CH) (Mandarin)
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:0 tvg-name=Amrita TV tvg-language=Malyalam tvg-country=IN tvg-id=Amrita TV tvg-logo=http://www.livetvant.com/wp-content/uploads/2012/12/Amrita-TV.png group-title=Entertainment,Amrita TV (Entertainment) (IN) (Malyalam)
+rtmp://209.133.205.226/live/amrita
+#EXTINF:0 tvg-name=And TV HD UK tvg-language=Hindi tvg-country=UK tvg-id=And TV HD UK tvg-logo=http://www.media247.co.uk/bizasia/wp-content/uploads/2015/07/andtvhd002.jpg group-title=Entertainment,And TV HD UK (Entertainment) (UK) (Hindi)
+http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhdts/chunklist.m3u8
+#EXTINF:0 tvg-name=And TV SD UK tvg-language=Hindi tvg-country=UK tvg-id=And TV SD UK tvg-logo=https://upload.wikimedia.org/wikipedia/en/c/cd/26TV-Channel-Logo.jpg group-title=Entertainment,And TV SD UK (Entertainment) (UK) (Hindi)
+http://tabertor.ddns.net:8000/live/salman1/bhai1/132.m3u8
+#EXTINF:0 tvg-name=Anime tvg-language=Spanish tvg-country=MX tvg-id=Anime tvg-logo=http://www.teenblab.com/assets/images/Anime-Logo.jpg group-title=Entertainment,Anime (Entertainment) (MX) (Spanish)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 tvg-name=Aniplus Asia tvg-language=Indonesian tvg-country=ID tvg-id=Aniplus Asia tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt-6YsdbzK6dqncyMf-HYafvYS3C31kGLtVeT_c-Kit4AhDAxPLACTuA group-title=Entertainment,Aniplus Asia (Entertainment) (ID) (Indonesian)
+http://118.97.183.222:1935/discover/aniplus/playlist.m3u8
+#EXTINF:0 tvg-name=Aniplus Asia tvg-language=English tvg-country=SG tvg-id=Aniplus Asia tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt-6YsdbzK6dqncyMf-HYafvYS3C31kGLtVeT_c-Kit4AhDAxPLACTuA group-title=Entertainment,Aniplus Asia (Entertainment) (SG) (English)
+http://118.97.183.222:1935/discover/aniplus/chunklist_w698076622.m3u8
+#EXTINF:0 tvg-name=Antena 1 tvg-language=Romanian tvg-country=RO tvg-id=Antena 1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsFMP4WUQAY0E_LVBdg5r3PJOkzBS9tdE215Kh8ytvDRMCuPZ0fk0U7w group-title=Entertainment,Antena 1 (Entertainment) (RO) (Romanian)
+http://iphone-streaming.ustream.tv/ustreamVideo/12584497/streams/live/playlist.m3u8
+#EXTINF:0 tvg-name=Antena 3 HD tvg-language=Spanish tvg-country=ES tvg-id=Antena 3 HD tvg-logo=http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png group-title=Entertainment,Antena 3 HD (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-name=Antena 3 Internacional tvg-language=Spanish tvg-country=ES tvg-id=Antena 3 Internacional tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSIIyRzequHPUuJAj8hi6o-Ll4N21Ohhfyqq2jVzbRa82K6qXdhwlHOZE group-title=Entertainment,Antena 3 Internacional (Entertainment) (ES) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0 tvg-name=ANT1 (GR) tvg-language=Greek tvg-country=GR tvg-id=Antenna 1 tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/antenna1_gr.jpg group-title=Entertainment,ANT1 (GR) (Entertainment) (GR) (Greek)
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0 tvg-name=Antenne Reunion tvg-language=French tvg-country=FR tvg-id=Antenne Reunion tvg-logo=http://www.userlogos.org/files/logos/14505_deva/ccloud1.png group-title=Entertainment,Antenne Reunion (Entertainment) (FR) (French)
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Arte cultural channel tvg-language=English tvg-country=UK tvg-id=Arte tvg-logo=http://i.imgur.com/uvq1RlS.png group-title=Entertainment,Arte cultural channel (Entertainment) (UK) (English)
+http://frlive.artestras.cshls.lldns.net/artestras/frlive/frlive/frlive_925.m3u8
+#EXTINF:0 tvg-name=Asre Emrooz tvg-language=Arabic tvg-country=IR tvg-id=Asre Emrozz tvg-logo=http://iranianiptv.com/wp-content/uploads/2015/03/asreemrooz.png group-title=Entertainment,Asre Emrooz (Entertainment) (IR) (Arabic)
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:0 tvg-name=Astro Ria tvg-language=Indonesian tvg-country=MY tvg-id=Astro Ria tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvfuwhGPisRv0g4q5EPt1SZ0reeqkwzOufzErSj9tPXgo3njGjPRzhsg group-title=Entertainment,Astro Ria (Entertainment) (MY) (Indonesian)
+http://www.layarku.tv/media/riav6.m3u8
+#EXTINF:0 tvg-name=Avto 24 tvg-language=Russian tvg-country=RU tvg-id=Avto 24 tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVqGPhPQ9L90Mz_twY8zE52dgQvsDfVMmJhYTvUNRdXe9PZr8rdJuMZQ group-title=Entertainment,Avto 24 (Entertainment) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/538/index.m3u8
+#EXTINF:0 tvg-name=Azteca 7 Monterrey tvg-language=Spanish tvg-country=MX tvg-id=Azteca 7 Monterrey tvg-logo=http://www.azteca7.com/portal/siete-beta/images/logo_empty.png group-title=Entertainment,Azteca 7 Monterrey (Entertainment) (MX) (Spanish)
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0 tvg-name=Azteca Honduras tvg-language=Spanish tvg-country=HN tvg-id=Azteca Honduras tvg-logo=http://i.imgur.com/LdA1y9J.png group-title=Entertainment,Azteca Honduras (Entertainment) (HN) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0 tvg-name=Azteca trece tvg-language=Spanish tvg-country=MX tvg-id=Azteca trece tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4Ascg6mhU-zkevUR_HuiMBpjPKVr7Jfa8FTKglaISwSw6KXRurkpIw group-title=Entertainment,Azteca trece (Entertainment) (MX) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0 tvg-name=BBC World News tvg-language=English tvg-country=UK tvg-id=BBC World News tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAVGB8XVhGRHfzm294FPrEsOWTEcfpFvdHJZA9THevGFFdExmaJhbmhQ group-title=Entertainment,BBC World News (Entertainment) (UK) (English)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/545/index.m3u8
+#EXTINF:0 tvg-name=BanglaVision tvg-language=Bengali tvg-country=BD tvg-id=BanglaVision tvg-logo=https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG group-title=Entertainment,BanglaVision (Entertainment) (BD) (Bengali)
+http://118.179.35.11/hls/Bangla_VisionhS43B/02.m3u8
+#EXTINF:0 tvg-name=Bejing TV tvg-language=Mandarin tvg-country=CH tvg-id=Bejing TV tvg-logo=http://www.swiss-cast.com/wp-content/uploads/Logos/China/Beijing_TV.jpg group-title=Entertainment,Bejing TV (Entertainment) (CH) (Mandarin)
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:0 tvg-name=Bindass tvg-language=Hindi tvg-country=IN tvg-id=Bindass tvg-logo=http://www.bestmediainfo.com/wp-content/uploads/2012/04/Bindass-new-logo-2.jpg group-title=Entertainment,Bindass (Entertainment) (IN) (Hindi)
+http://tabertor.ddns.net:8000/live/salman1/bhai1/86.m3u8
+#EXTINF:0 tvg-name=CBC tvg-language=Arabic tvg-country=EG tvg-id=CBC tvg-logo=http://www.3arablive.com/wp-content/uploads/2013/01/cbc-logo.jpg group-title=Entertainment,CBC (Entertainment) (EG) (Arabic)
+http://teledunet.tv:8888/cbc_2.m3u8?idu=roivampire_79042578300
+#EXTINF:0 tvg-name=CBS Reality tvg-language=Russian tvg-country=UK tvg-id=CBS Reality tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRg63KYl_GoFFyzQCArQ0-zAzFwwNq9fxUXtzWSAjppmsmRnjn0CEOeXw group-title=Entertainment,CBS Reality (Entertainment) (UK) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/706/index.m3u8
+#EXTINF:0 tvg-name=CNS Channel 6 Guyana tvg-language=English tvg-country=GY tvg-id=CNS Channel 6 Guyana tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScy6OEo52SEBLCOFgnnQVl_ViKvDoupKFTLISp5Sz2U5L2zCZ5zFVXyCE group-title=Entertainment,CNS Channel 6 Guyana (Entertainment) (GY) (English)
+rtmp://cdbLgf.live.cloud.influxis.com:80/cdbLgf/_definst_/cns6
+#EXTINF:0 tvg-name=CNXN TV tvg-language=Malayalam tvg-country=KW tvg-id=CNXN TV tvg-logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/cnxn.png group-title=Entertainment,CNXN TV (Entertainment) (KW) (Malayalam)
+http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/cnxn.png
+#EXTINF:0 tvg-name=CO TV tvg-language=Tamil tvg-country=IN tvg-id=CO TV tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=Entertainment,CO TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/cotv/myStream
+#EXTINF:0 tvg-name=CTC (Link 2) tvg-language=Russian tvg-country=RU tvg-id=CTC (Link 2) tvg-logo=http://1.bp.blogspot.com/-LiVFqUi8jyo/UFeYVoMPysI/AAAAAAAANIg/LtJBFnm40_8/s1600/CTC+logo.jpg group-title=Entertainment,CTC (Link 2) (Entertainment) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/506/index.m3u8
+#EXTINF:0 tvg-name=CTN TV tvg-language=Tamil tvg-country=IN tvg-id=CTN TV tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=Entertainment,CTN TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/ctntv/myStream
+#EXTINF:0 tvg-name=Cabnet Kottayam TV tvg-language=Malayalam tvg-country=IN tvg-id=Cabnet Kottayam TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnxkYaib56BQapjd-6SYrKNV2gVzp1nc-dCciIXJ1GINHlGEBa3jw2QQ group-title=Entertainment,Cabnet Kottayam TV (Entertainment) (IN) (Malayalam)
+rtmp://livestream.5centscdn.com/cabnet/8643cafcbf902455b0ffd62bcef24ca8.sdp
+#EXTINF:0 tvg-name=Canal 10 Honduras tvg-language=Spanish tvg-country=HN tvg-id=Canal 10 Honduras tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3a1XXFphKaPjIVlmroz1P3HE87kEgzDsbwyTZPeKvdByB_sKTqJv_oQ group-title=Entertainment,Canal 10 Honduras (Entertainment) (HN) (Spanish)
+http://control1.worldkast.com/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 10 Mar De Plata TV tvg-language=Spanish tvg-country=AR tvg-id=Canal 10 Mar De Plata TV tvg-logo=http://static.tvlive32.com/logo/Canal-10-Mar-del-Plata_7164.jpg group-title=Entertainment,Canal 10 Mar De Plata TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0 tvg-name=Canal 13 Nicaragua tvg-language=Spanish tvg-country=NI tvg-id=Canal 13 Nicaragua tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png group-title=Entertainment,Canal 13 Nicaragua (Entertainment) (NI) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 2 Nicaragua tvg-language=Spanish tvg-country=NI tvg-id=Canal 2 NIcaragua tvg-logo=http://i.imgur.com/cA00bnP.jpg group-title=Entertainment,Canal 2 Nicaragua (Entertainment) (NI) (Spanish)
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 40 tvg-language=Spanish tvg-country=MX tvg-id=Canal 40 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Proyecto_40_logo.PNG/150px-Proyecto_40_logo.PNG group-title=Entertainment,Canal 40 (Entertainment) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:0 tvg-name=Canal 6 tvg-language=Spanish tvg-country=CR tvg-id=Canal 6 tvg-logo=http://wwitv.com/tvlogos/b2634.jpg group-title=Entertainment,Canal 6 (Entertainment) (CR) (Spanish)
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 7 tvg-language=Spanish tvg-country=MX tvg-id=Canal 7 tvg-logo=http://jumptv.typepad.com/latinamerica/images/logo_canal_7_1.jpg group-title=Entertainment,Canal 7 (Entertainment) (MX) (Spanish)
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
+#EXTINF:0 tvg-name=Canal 9 Litoral TV tvg-language=Spanish tvg-country=AR tvg-id=Canal 9 Litoral TV tvg-logo=http://vignette1.wikia.nocookie.net/logopedia/images/9/9b/Parana-c9.gif group-title=Entertainment,Canal 9 Litoral TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:0 tvg-name=Canal 9 tvg-language=Spanish tvg-country=AR tvg-id=Canal 9 tvg-logo=http://i.imgur.com/7d1x7.jpg group-title=Entertainment,Canal 9 (Entertainment) (AR) (Spanish)
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Canal Antiestres tvg-language=Spanish tvg-country=CO tvg-id=Canal Antiestres tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXchphHPxoaMVT1rFUiUENqlx0GVVnCK8j0pgJJ6H39y3ny5CzYRYrUg group-title=Entertainment,Canal Antiestres (Entertainment) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_3.m3u8
+#EXTINF:0 tvg-name=Canal Once HD tvg-language=Spanish tvg-country=MX tvg-id=Canal Once HD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ group-title=Entertainment,Canal Once HD (Entertainment) (MX) (Spanish)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Canal Once SD tvg-language=Spanish tvg-country=MX tvg-id=Canal Once SD tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ group-title=Entertainment,Canal Once SD (Entertainment) (MX) (Spanish)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0 tvg-name=Canal Once tvg-language=Spanish tvg-country=UY tvg-id=Canal Once tvg-logo=http://i.imgur.com/14V0pcp.jpg group-title=Entertainment,Canal Once (Entertainment) (UY) (Spanish)
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-name=Canal U tvg-language=Spanish tvg-country=AR tvg-id=Canal U tvg-logo=http://www.irts-pacacorse.com/var/irts/storage/images/media/images/bloc_notes_img/canal_u/8848-2-fre-FR/canal_u_medium.gif group-title=Entertainment,Canal U (Entertainment) (AR) (Spanish)
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:0 tvg-name=Canal de las Estrellas tvg-language=Spanish tvg-country=MX tvg-id=Canal de las Estrellas tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/XEW-TV_(logo).png/150px-XEW-TV_(logo).png group-title=Entertainment,Canal de las Estrellas (Entertainment) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 tvg-name=Capital 21 tvg-language=Spanish tvg-country=MX tvg-id=Capital 21 tvg-logo=http://homozapping.com.mx/wp-content/uploads/2013/03/Canal-21.jpg group-title=Entertainment,Capital 21 (Entertainment) (MX) (Spanish)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0 tvg-name=Captain TV tvg-language=Tamil tvg-country=IN tvg-id=Captain TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5chTXjymNuK1qaYO_83UgOG5uWwrOosJEuVbahEOnmTAIOvQqs5Ghow group-title=Entertainment,Captain TV (Entertainment) (IN) (Tamil)
+http://play-fs.amgiptv.com/vxtvcaptain/captainvodsg.stream/playlist.m3u8
+#EXTINF:0 tvg-name=Cartoon Network Arabic tvg-language=Arabic tvg-country=AE tvg-id=Cartoon Network Arabic tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/300px-Cartoon_Network_Arabic_logo.png group-title=Entertainment,Cartoon Network Arabic (Entertainment) (AE) (Arabic)
+http://teledunet.tv:8888/cartoon_network.m3u8?idu=roivampire_79042578300
+#EXTINF:0 tvg-name=CerTv tvg-language=Spanish tvg-country=ES tvg-id=CerTv tvg-logo=http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg group-title=Entertainment,CerTv (Entertainment) (ES) (Spanish)
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0 tvg-name=Channel i tvg-language=Bengali tvg-country=BD tvg-id=Channel i tvg-logo=http://www.userlogos.org/files/logos/jumpordie/channel-i_01.png group-title=Entertainment,Channel i (Entertainment) (BD) (Bengali)
+http://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
+#EXTINF:0 tvg-name=Cherno More tvg-language=Bulgarian tvg-country=BG tvg-id=Cherno More tvg-logo=http://frocus.net/images/logotv/cherno-more-tv.gif group-title=Entertainment,Cherno More (Entertainment) (BG) (Bulgarian)
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0 tvg-name=China Tibetan Tv tvg-language=Mandarin tvg-country=CH tvg-id=China Tibetan TV tvg-logo=http://ia.media-imdb.com/images/M/MV5BMjMyMDM3NDE0NV5BMl5BanBnXkFtZTgwMzMzMjIzMjE40._V1_SY317_CR1042C02C2142C317_AL_.jpg group-title=Entertainment,China Tibetan Tv (Entertainment) (CH) (Mandarin)
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:0 tvg-name=Chithiram tvg-language=Tamil tvg-country=LK tvg-id=Chithiram tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84Cuga9PyPiBI9hEUzmCA-JkLq_ckmLTllfJr_g-Ej-uhwLGAQMpLDw group-title=Entertainment,Chithiram (Entertainment) (LK) (Tamil)
+http://akamaihd.wowzahls21.yuppcdn.net/live/chithiram/chunklist.m3u8
+#EXTINF:0 tvg-name=CineStreamTV tvg-language=English tvg-country=BB tvg-id=CineStreamTV tvg-logo=http://static.filmon.com/assets/channels/3175/big_logo.png group-title=Entertainment,CineStreamTV (Entertainment) (BB) (English)
+http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:0 tvg-name=Cnc3 tvg-language=English tvg-country=TT tvg-id=Cnc3 tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs7bMoD5c7mf0WvrxdL8e3KrSoeCTQdIFF1dZwYo-SSjyaLNV1oZ5yMw group-title=Entertainment,Cnc3 (Entertainment) (TT) (English)
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+#EXTINF:0 tvg-name=Color Vision tvg-language=Spanish tvg-country=ES tvg-id=Color Vision tvg-logo=http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg group-title=Entertainment,Color Vision (Entertainment) (ES) (Spanish)
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+#EXTINF:0 tvg-name=Colors TV HD tvg-language=Hindi tvg-country=IN tvg-id=Colors TV HD tvg-logo=http://tvyaar.com/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg group-title=Entertainment,Colors TV HD (Entertainment) (IN) (Hindi)
+http://tabertor.ddns.net:8000/live/bashir/bashir/57.m3u8
+#EXTINF:0 tvg-name=Colors TV SD tvg-language=Hindi tvg-country=IN tvg-id=Colors TV SD tvg-logo=http://www.indiandth.com/wp-content/uploads/channels/hd/colors_hd.jpg group-title=Entertainment,Colors TV SD (Entertainment) (IN) (Hindi)
+http://tabertor.ddns.net:8000/live/bashir/bashir/48.m3u8
+#EXTINF:0 tvg-name=Colors TV SD tvg-language=Hindi tvg-country=UK tvg-id=Colors TV SD tvg-logo=http://tvyaar.com/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg group-title=Entertainment,Colors TV SD (Entertainment) (UK) (Hindi)
+http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_800.m3u8
+#EXTINF:0 tvg-name=Comedy Channel tvg-language=Russian tvg-country=US tvg-id=Comedy Channel tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5257evBfF2s0HxuZstWUT7yG_NrJ4q7Zzgj35v9RU_CkdbwyqEfqYMA group-title=Entertainment,Comedy Channel (Entertainment) (US) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/157/index.m3u8
+#EXTINF:0 tvg-name=Comedy tvg-language=Russian tvg-country=US tvg-id=Comedy tvg-logo=http://www.comediatv.ru/wp-content/themes/comediatv/images/logotip.png group-title=Entertainment,Comedy (Entertainment) (US) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/145/index.m3u8
+#EXTINF:0 tvg-name=Corcas tvg-language=French tvg-country=CO tvg-id=Corcas tvg-logo=http://logos.textgiraffe.com/logos/logo-name/Dorcas-designstyle-colors-m.png group-title=Entertainment,Corcas (Entertainment) (CO) (French)
+http://95.81.165.21/5958/index.m3u8
+#EXTINF:0 tvg-name=DAS ERSTE tvg-language=German tvg-country=DE tvg-id=DAS ERSTE tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png group-title=Entertainment,DAS ERSTE (Entertainment) (DE) (German)
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8?b?b*t$
+#EXTINF:0 tvg-name=DD TV Jaffna tvg-language=Tamil tvg-country=LK tvg-id=DD TV Jaffna tvg-logo=http://www.mediaworldasia.dk/images/stories/makrologo/tamil/ddtvsl.jpg group-title=Entertainment,DD TV Jaffna (Entertainment) (LK) (Tamil)
+rtmp://91.219.43.148:1935/ddtv/ddtv
+#EXTINF:0 tvg-name=DTXHD tvg-language=Russian tvg-country=RU tvg-id=DTXHD tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo6Xp7QJDUFwZHMLQxX7nLxbSrEQvH9ciLLK6QlAOSzJdlW0iSMP4bHqc group-title=Entertainment,DTXHD (Entertainment) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/135/index.m3u8
+#EXTINF:0 tvg-name=Daiji world tvg-language=Kannada tvg-country=IN tvg-id=Daiji World tvg-logo=http://www.daijiworld247.com/images/daijiworld247Logo.png group-title=Entertainment,Daiji world (Entertainment) (IN) (Kannada)
+http://live.wmncdn.net/daijiworld24x7/9e8d2ee8ddf0223a8a2c0b78cc58d555.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Darshan Tv tvg-language=Malyalam tvg-country=IN tvg-id=Darshan Tv tvg-logo=https://lh4.ggpht.com/qVGlhKBHN6eScJM5oLShbyxJhgcTcACbWeItrDCfi2QPkXc5arno6HoEz-MikFq2dXOI=w300 group-title=Entertainment,Darshan Tv (Entertainment) (IN) (Malyalam)
+rtmp://209.133.205.226/live/darshana
+#EXTINF:0 tvg-name=Desh TV tvg-language=Bengali tvg-country=BD tvg-id=Desh TV tvg-logo=http://www.karnaphuli.com/images/desh-tv-logo.png group-title=Entertainment,Desh TV (Entertainment) (BD) (Bengali)
+http://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
+#EXTINF:0 tvg-name=Desi Fuzion TV tvg-language=Punjabi tvg-country=US tvg-id=Desi Fuzion TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQixuXiJUZKL_nm4PIq9ehFPOfn8xV0N8hf874zxwI3GTSBIo4WTL9KvsQ group-title=Entertainment,Desi Fuzion TV (Entertainment) (US) (Punjabi)
+http://livestream.5centscdn.com/desifuziontv/c6566637dfc9fe05934a0b3f249e6d75.sdp/chunklist.m3u8
+#EXTINF:0 tvg-name=DesiPlaza TV tvg-language=Telugu tvg-country=US tvg-id=DesiPlaza TV tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzfhAPniwy42cyJ7bGNyXN3e3tVOSjYBewTj1rqzkn8_goHlfAVGDrCQ group-title=Entertainment,DesiPlaza TV (Entertainment) (US) (Telugu)
+rtmp://65.51.67.139/live/desiplaza
+#EXTINF:0 tvg-name=Deva TV HD tvg-language=Tamil tvg-country=IN tvg-id=Deva TV HD tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=Entertainment,Deva TV HD (Entertainment) (IN) (Tamil)
+http://45.79.203.234:1935/deva/myStream/playlist.m3u8
+#EXTINF:0 tvg-name=Dhamaal TV tvg-language=Gujrati/Hindi tvg-country=IN tvg-id=Dhamaal TV tvg-logo=http://uclu.org/sites/uclu.org/files/dhamaal.jpeg group-title=Entertainment,Dhamaal TV (Entertainment) (IN) (Gujrati/Hindi)
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdDhammalTv5018au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:0 tvg-name=Dheeran Tv tvg-language=Tamil tvg-country=IN tvg-id=Dheeran Tv tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpAM1mSvc9g7_nvUL-zeazQcnEvfe2cs4aQP6dsWum2ZtHdAfMyWk48g group-title=Entertainment,Dheeran Tv (Entertainment) (IN) (Tamil)
+http://dogwamnhemjme.cloudfront.net/dheeranorg/smil:dheeran.smil/chunklist_b512000.m3u8
+#EXTINF:0 tvg-name=Digital 15 tvg-language=Spanish tvg-country=DO tvg-id=Digital 15 tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzXWjftp_VKDobUby1YGlVgy8BbBblAf7A_E9gx1rGy7WlcjioAHqpIU4 group-title=Entertainment,Digital 15 (Entertainment) (DO) (Spanish)
+rtmp://stream.grupotelemicro.com:9095/live16/telemicro1515_1_96 playpath=telemicro1515_1_96 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf live=1 pageUrl=http://telemicro.com.do/web/digital-15-en-vivo/
+#EXTINF:0 tvg-name=Domashnee tvg-language=Russian tvg-country=RU tvg-id=Domashnee tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png group-title=Entertainment,Domashnee (Entertainment) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/514/index.m3u8
+#EXTINF:0 tvg-name=Dream 1 tvg-language=Arabic tvg-country=EG tvg-id=Dream 1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dream_2.svg/130px-Dream_2.svg.png group-title=Entertainment,Dream 1 (Entertainment) (EG) (Arabic)
+http://teledunet.tv:8888/dream_1.m3u8?idu=roivampire_79042578300
+#EXTINF:0 tvg-name=Dubai Drama tvg-language=Arabic tvg-country=AE tvg-id=Dubai Drama tvg-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtQlWZc5hlUPlsCX5aE8pZaHu43NRPcYvHRr5ia02-gB_ztEvWuvbxbQ group-title=Entertainment,Dubai Drama (Entertainment) (AE) (Arabic)
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Dubai Europe tvg-language=English tvg-country=AE tvg-id=Dubai Europe tvg-logo=http://www.kleindienst.ae/media/wysiwyg/logos/THOE-sm.jpg group-title=Entertainment,Dubai Europe (Entertainment) (AE) (English)
+http://38.99.146.36:7777/DubaiEurope_HD.m3u8
+#EXTINF:0 tvg-name=Dubai One tvg-language=English tvg-country=AE tvg-id=Dubai One tvg-logo=http://dev.berovbros.com/list/list/Put20contents20in20dev_hdd0/logos/dubai.one.png group-title=Entertainment,Dubai One (Entertainment) (AE) (English)
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:0 tvg-name=Duna World tvg-language=Hungarian tvg-country=HU tvg-id=Duna world tvg-logo=http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/102012/duna_world_tv_2012_0.png3Fitok3DCB03ffz3 group-title=Entertainment,Duna World (Entertainment) (HU) (Hungarian)
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8
+#EXTINF:0 tvg-name=Duna tvg-language=Hungarian tvg-country=HU tvg-id=Duna tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png group-title=Entertainment,Duna (Entertainment) (HU) (Hungarian)
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
+#EXTINF:0 tvg-name=E! Entertainment Latino tvg-language=Spanish tvg-country=US tvg-id=E! Latino tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/100px-E!_Logo.svg.png group-title=Entertainment,E! Entertainment Latino (Entertainment) (US) (Spanish)
+http://31.220.40.118/LiveEdge/EentertaimentSD/playlist.m3u8?token=f1ea518b512761e8a8f6b7b9bce34111
+#EXTINF:0 tvg-name=EE TV tvg-language=Tamil tvg-country=IN tvg-id=EE TV tvg-logo=http://extreme.com/media/img/extreme/tv_guide.png group-title=Entertainment,EE TV (Entertainment) (IN) (Tamil)
+http://37.59.17.222:1935/live_ca/eettv/chunklist.m3u8
+#EXTINF:0 tvg-name=EPIRUS TV1 tvg-language=Greek tvg-country=GR tvg-id=EPIRUS TV1 tvg-logo=https://s-media-cache-ak0.pinimg.com/736x/a3/97/ba/a397bacfaaa2b1bb366fec6a67263552.jpg group-title=Entertainment,EPIRUS TV1 (Entertainment) (GR) (Greek)
+http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-name=Eastern Sure tvg-language=Mandarin tvg-country=CH tvg-id=Eastern Sure tvg-logo=http://www.virginia.org/uploadedImages/virginiaorg/Regions/CoastalVA_Logo_4C.jpg group-title=Entertainment,Eastern Sure (Entertainment) (CH) (Mandarin)
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:0 tvg-name=Ecuamerica TV tvg-language=Spanish tvg-country=EC tvg-id=Ecuamerica TV tvg-logo=http://puu.sh/nKvBg/346d1a116d.png group-title=Entertainment,Ecuamerica TV (Entertainment) (EC) (Spanish)
+http://enhd.co:1935/ecuamerica/ecuamerica/playlist.m3u8
+#EXTINF:0 tvg-name=Ekushey tvg-language=Bengali tvg-country=BD tvg-id=Ekushey tvg-logo=http://www.zingmobile.net/news_clip_image001.gif group-title=Entertainment,Ekushey (Entertainment) (BD) (Bengali)
+http://118.179.35.11/hls/ETVFQ46s/05.m3u8
+#EXTINF:0 tvg-name=El Mehwar tvg-language=Arabic tvg-country=EG tvg-id=El Mehwar tvg-logo=http://static.elcinema.com/images/channels/160px/1145.png group-title=Entertainment,El Mehwar (Entertainment) (EG) (Arabic)
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
+#EXTINF:0 tvg-name=English Club TV tvg-language=English tvg-country=UK tvg-id=English Club TV tvg-logo=http://www.bboxnews.fr/public/2013/.English-Club-TV_s.jpg group-title=Entertainment,English Club TV (Entertainment) (UK) (English)
+http://213.81.153.241/live001/channel020_p5.stream/DVR.m3u8
+#EXTINF:0 tvg-name=Enorme TV tvg-language=French tvg-country=FR tvg-id=Enorme TV tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKrNowiBEdHE4SvgJVAoh4i5tLZPcW__CzsK-i5afXNoR6hdSS66Wmw group-title=Entertainment,Enorme TV (Entertainment) (FR) (French)
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+#EXTINF:0 tvg-name=FOX Russia tvg-language=Russian tvg-country=RU tvg-id=FOX Russia tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckIbGgCxKuvLeZxTuMCdtQI8MguigVxjTMzeYhK4ilkG4HG770YWGjtk group-title=Entertainment,FOX Russia (Entertainment) (RU) (Russian)
+http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/550/index.m3u8
+#EXTINF:0 tvg-name=FOX tvg-language=English tvg-country=US tvg-id=FOX tvg-logo=http://i.imgur.com/15rP8l3.png group-title=Entertainment,FOX (Entertainment) (US) (English)
+http://167.114.102.27/live/WaDUACzZEOvQ9K_yS0l4KQ/1461776090/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=FTV MASTV tvg-language=Mandarin tvg-country=CH tvg-id=FTV MASTV tvg-logo=http://www.asiasat.com/sites/default/files/mastv_1.png group-title=Entertainment,FTV MASTV (Entertainment) (CH) (Mandarin)
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:0 tvg-name=FX tvg-language=Spanish tvg-country=MX tvg-id=FX tvg-logo=http://www.logoeps.net/wp-content/uploads/2012/04/fx-tv-channel-logo.jpg group-title=Entertainment,FX (Entertainment) (MX) (Spanish)
+http://live.tutvgratis.tv/ch/101.m3u8
+#EXTINF:0 tvg-name=FX tvg-language=English tvg-country=US tvg-id=FX tvg-logo=http://www.polyvore.com/cgi/img-thing3F.out3Djpg26size3Dl26tid3D66497051 group-title=Entertainment,FX (Entertainment) (US) (English)
+http://167.114.102.27/live/FKeH7kac_rrlmaMF-1O7jw/1461775877/b8b5089c70ae62534970e2d8aa67e96d.m3u8|User-Agent=Mozilla/5.020(Windows20NT206.13B20WOW64)20AppleWebKit/537.3620(KHTML2C20like20Gecko)20Chrome/47.0.2526.10620Safari/537.36
+#EXTINF:0 tvg-name=Farsi 1 TV tvg-language=Arabic tvg-country=IR tvg-id=Farsi 1 TV tvg-logo=http://www.satfrequency.com/wp-content/uploads/2015/01/Farsi-1-Sat.jpg group-title=Entertainment,Farsi 1 TV (Entertainment) (IR) (Arabic)
+http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
+#EXTINF:0 tvg-name=Flowers TV tvg-language=Malayalam tvg-country=IN tvg-id=Flowers TV tvg-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5VGzhAJQPZoryl_aO08lBPOzjTKbsIofgJs_DbC1_Dy4JpbTsR-4Waw group-title=Entertainment,Flowers TV (Entertainment) (IN) (Malayalam)
+http://live.wmncdn.net/flowerstv123/0adb0cb6b6bcae38f59b53c96673f72c.sdp/playlist.m3u8
+#EXTINF:0 tvg-name=Future TV tvg-language=Arabic tvg-country=LB tvg-id=Future TV tvg-logo=http://www.tv-logo.com/pt-data/uploads/images/logo/future_tv_satellite.jpg group-title=Entertainment,Future TV (Entertainment) (LB) (Arabic)
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+#EXTINF:0 tvg-name=Galicia tvg-language=Spanish tvg-country=ES tvg-id=Galicia tvg-logo=http://i.imgur.com/R0CSkHm.jpg group-title=Entertainment,Galicia (Entertainment) (ES) (Spanish)
+http://media3.crtvg.es/live/tvga/.m3u8
+#EXTINF:0 tvg-name=Garshom TV tvg-language=Malayalam tvg-country=UK tvg-id=Garshom TV tvg-logo=http://www.garshom.tv/images/logo.png group-title=Entertainment,Garshom TV (Entertainment) (UK) (Malayalam)
+http://94.136.36.217:8400/streamlivepkgr.m3u8
+#EXTINF:0 tvg-name=Gel Life tvg-language=Farsi tvg-country=IR tvg-id=Gel Life tvg-logo=https://i.vimeocdn.com/portrait/6414587_300x300.jpg group-title=Entertainment,Gel Life (Entertainment) (IR) (Farsi)
+http://63.237.48.23/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:0 tvg-name=Geo Tez tvg-language=Urdu tvg-country=PK tvg-id=Geo Tez tvg-logo=https://lh3.googleusercontent.com/-iTF22CgjJS0/AAAAAAAAAAI/AAAAAAAAAAA/fmPA69q_h38/photo.jpg group-title=Entertainment,Geo Tez (Entertainment) (PK) (Urdu)
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:0 tvg-name=Global BC tvg-language=English tvg-country=US tvg-id=Global BC tvg-logo=http://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png group-title=Entertainment,Global BC (Entertainment) (US) (English)
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea;=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:0 tvg-name=Gurpuri Tv tvg-language=Punjabi tvg-country=IN tvg-id=Gurpuri Tv tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLv0asctT45VBuuyEPAQqaTt731NnTb-qdz6UEG9vCRTMgyo4A9dbnA group-title=Entertainment,Gurpuri Tv (Entertainment) (IN) (Punjabi)
+rtmp://live.wmncdn.net/gurpuri/

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html class="ui-mobile-rendering">
+<head>
+    <title></title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" type="text/css" href="css/main.css">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- The Templates -->
+
+
+<div data-role="page" id="page1" data-theme="b">
+
+<div data-role="header">
+    <h1>TV and Chill</h1>
+</div>
+    
+    <div data-role="navbar">
+      <ul>
+                <li><a href="#overlayPanel" data-rel="popup" data-transition="slidedown" data-icon="bars">Categories</a></li>
+
+        <!--<li><a href="#page2" data-icon="arrow-r">Movies</a></li> -->
+        <!--<li><a href="#" data-icon="home">Home</a></li>-->
+        <!--<li><a href="#page2" data-icon="arrow-r">Movies</a></li>-->
+        <li><a href="#myPopup" data-rel="popup" data-transition="slidedown" data-icon="search">Search</a></li>
+      </ul>
+    </div>
+
+   <div data-role="popup" id="myPopup" class="ui-content">
+  <div data-role="main" class="ui-content"  >
+    <h2>Browse Channels</h2>
+    <form class="ui-filterable" >
+      <input id="myFilter" data-type="search">
+    </form>
+    <ul id = "tv" style="overflow-y: scroll; height:200px;" data-role="listview" data-filter="true" data-input="#myFilter" data-autodividers="true" data-inset="true" >
+    </ul>
+</div>
+   </div>
+  
+ 
+<div class="container-fluid">
+<div class= "row text-center" >
+
+  <video width= "79%" controls id="video1">
+  
+  </video>
+  
+  
+<!--</div> -->
+</div></div>
+<script> 
+
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+    if (myVideo.paused) 
+        myVideo.play(); 
+    else 
+        myVideo.pause(); 
+} 
+
+</script> 
+   
+  <div data-role="panel" id="overlayPanel" data-display="overlay" data-swipe-close="false"> 
+           <ul data-role="listview">
+
+      <li><a href="#">Entertainment</a></li>
+      <li><a href="#">Comedy</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Sport</a></li>
+      <li><a href="#">Cartoon</a></li>
+      <li><a href="#">DIY</a></li>
+
+    </ul>
+  </div>
+  </div>
+
+
+
+
+<!--end page1 -->
+<!--Start Page 2 -->
+<div data-role="page" id="page2" data-theme="b">
+
+<div data-role="header">
+    <h1>Movies and Chill</h1>
+</div>
+
+    <div data-role="navbar">
+      <ul>
+        <li><a href="#page1" data-icon="home">Home</a></li>
+        <li><a href="#overlayPanel2" data-rel="popup" data-transition="slidedown" data-icon="bars">Genres</a></li>
+        <!--<li><a href="#pageone" data-icon="arrow-r">TV</a></li>-->
+        <li><a href="#myPopup2" data-rel="popup" data-transition="slidedown" data-icon="search">Search</a></li>
+      </ul>
+    </div>
+
+   <div data-role="popup" id="myPopup2" class="ui-content">
+  <div data-role="main" class="ui-content"  >
+    <h2>Browse Movies</h2>
+    <form class="ui-filterable" >
+      <input id="myFilter" data-type="search">
+    </form>
+    <ul id = "users" style="overflow-y: scroll; height:200px;" data-role="listview" data-filter="true" data-input="#myFilter" data-autodividers="true" data-inset="true" >
+    </ul>
+</div>
+   </div>
+  
+ 
+<div class="container-fluid">
+<div class= "row text-center" >
+
+  <video width= "79%" controls id="video1">
+  
+  </video>
+<!--</div> --></div></div>
+<script> 
+
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+    if (myVideo.paused) 
+        myVideo.play(); 
+    else 
+        myVideo.pause(); 
+} 
+
+</script> 
+   
+  <div data-role="panel" id="overlayPanel2" data-display="overlay" data-swipe-close="false"> 
+           <ul data-role="listview">
+
+      <li><a href="#">Romance</a></li>
+      <li><a href="#">Comedy</a></li>
+      <li><a href="#">Horror</a></li>
+      <li><a href="#">Sports</a></li>
+      <li><a href="#">Drama</a></li>
+      <li><a href="#">Science Fiction</a></li>
+      <li><a href="#">Action</a></li>
+      <li><a href="#">Fantasy</a></li>
+
+    </ul>
+  </div>
+  
+</div>
+
+<!--End Page 2-->
+
+
+    <!-- The Scripts -->
+
+
+
+<script src="js/lib/jquery-1.12.3.min.js"></script>
+<script src="js/lib/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/jqm-config.js"></script>
+
+        <script src="js/lib/underscore-min.js"></script>
+        <script src="js/lib/backbone-min.js"></script>
+
+
+<script src="js/main.js"></script>
+</head>
+
+
+</html>
